@@ -1,0 +1,24 @@
+{   "NumberofColumns" : 19,
+	"ColName": {
+		"CustomerID" : "INTEGER",
+		"Age" : "FLOAT",
+		"TypeofContact" : "OBJECT",
+		"CityTier" : "INTEGER",
+		"DurationOfPitch" : "FLOAT",
+		"Occupation" : "OBJECT",
+		"Gender" : "OBJECT",
+		"NumberOfPersonVisiting" : "INTEGER",
+		"NumberOfFollowups" : "FLOAT",
+		"ProductPitched" : "OBJECT",
+		"PreferredPropertyStar" : "FLOAT",
+		"MaritalStatus" : "OBJECT",
+		"NumberOfTrips" : "OBJECT",
+		"Passport" : "INTEGER",
+		"PitchSatisfactionScore" : "INTEGER",
+		"OwnCar" : "INTEGER",
+		"NumberOfChildrenVisiting" : "FLOAT",
+		"Designation" : "OBJECT",
+		"MonthlyIncome" : "FLOAT"
+
+	}
+}

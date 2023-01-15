@@ -1,0 +1,321 @@
+2023-01-07/13:44:25		Opened Prediction database successfully
+2023-01-07/13:44:25		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-07/13:53:25		Opened Prediction database successfully
+2023-01-07/13:53:25		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-07/15:18:02		Opened Prediction database successfully
+2023-01-07/15:18:02		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-07/15:19:17		Opened Prediction database successfully
+2023-01-07/15:19:17		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-07/15:27:10		Opened Prediction database successfully
+2023-01-07/15:27:10		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-07/15:29:12		Opened Prediction database successfully
+2023-01-07/15:29:12		Tables created successfully!!
+2023-01-07/15:29:12		Prediction database closed successfully!!!
+2023-01-07/15:29:12		Opened Prediction database successfully
+2023-01-07/15:29:12		Opened Prediction database successfully
+2023-01-07/15:29:12		Data successfully loaded from Good_data table
+2023-01-07/15:33:44		Opened Prediction database successfully
+2023-01-07/15:33:44		Error while creating table table Good_data already exists
+2023-01-07/15:34:31		Opened Prediction database successfully
+2023-01-07/15:34:31		Error while creating table table Good_data already exists
+2023-01-07/15:35:43		Opened Prediction database successfully
+2023-01-07/15:35:43		Tables created successfully!!
+2023-01-07/15:35:43		Prediction database closed successfully!!!
+2023-01-07/15:35:43		Opened Prediction database successfully
+2023-01-07/15:35:43		Opened Prediction database successfully
+2023-01-07/15:35:43		Data successfully loaded from Good_data table
+2023-01-07/15:37:05		Opened Prediction database successfully
+2023-01-07/15:37:05		Tables created successfully!!
+2023-01-07/15:37:05		Prediction database closed successfully!!!
+2023-01-07/15:37:05		Opened Prediction database successfully
+2023-01-07/15:37:05		Opened Prediction database successfully
+2023-01-07/15:37:05		Data successfully loaded from Good_data table
+2023-01-07/15:39:49		Opened Prediction database successfully
+2023-01-07/15:39:49		Error while creating table table Good_data already exists
+2023-01-07/15:40:31		Opened Prediction database successfully
+2023-01-07/15:40:31		Tables created successfully!!
+2023-01-07/15:40:31		Prediction database closed successfully!!!
+2023-01-07/15:40:31		Opened Prediction database successfully
+2023-01-07/15:40:31		Opened Prediction database successfully
+2023-01-07/15:40:31		Data successfully loaded from Good_data table
+2023-01-07/15:41:28		Opened Prediction database successfully
+2023-01-07/15:41:28		Tables created successfully!!
+2023-01-07/15:41:28		Prediction database closed successfully!!!
+2023-01-07/15:41:28		Opened Prediction database successfully
+2023-01-07/15:41:28		Opened Prediction database successfully
+2023-01-07/15:41:28		Data successfully loaded from Good_data table
+2023-01-07/15:45:04		Opened Prediction database successfully
+2023-01-07/15:45:04		Error while creating table table Good_data already exists
+2023-01-07/15:49:27		Opened Prediction database successfully
+2023-01-07/15:49:27		Tables created successfully!!
+2023-01-07/15:49:27		Prediction database closed successfully!!!
+2023-01-07/15:49:27		Opened Prediction database successfully
+2023-01-07/15:49:27		Opened Prediction database successfully
+2023-01-07/15:49:27		Data successfully loaded from Good_data table
+2023-01-07/15:50:20		Opened Prediction database successfully
+2023-01-07/15:50:20		Tables created successfully!!
+2023-01-07/15:50:20		Prediction database closed successfully!!!
+2023-01-07/15:50:20		Opened Prediction database successfully
+2023-01-07/15:50:54		Data successfully inserted into Good_data table
+2023-01-07/15:50:54		Opened Prediction database successfully
+2023-01-07/15:50:55		Data successfully loaded from Good_data table
+2023-01-07/15:52:29		Opened Prediction database successfully
+2023-01-07/15:52:30		Tables created successfully!!
+2023-01-07/15:52:30		Prediction database closed successfully!!!
+2023-01-07/15:52:30		Opened Prediction database successfully
+2023-01-07/15:52:49		Data successfully inserted into Good_data table
+2023-01-07/15:52:50		Opened Prediction database successfully
+2023-01-07/15:52:50		Data successfully loaded from Good_data table
+2023-01-07/15:54:27		Opened Prediction database successfully
+2023-01-07/15:54:27		Tables created successfully!!
+2023-01-07/15:54:27		Prediction database closed successfully!!!
+2023-01-07/15:54:27		Opened Prediction database successfully
+2023-01-07/15:54:53		Data successfully inserted into Good_data table
+2023-01-07/15:54:54		Opened Prediction database successfully
+2023-01-07/15:54:54		Data successfully loaded from Good_data table
+2023-01-07/15:56:20		Opened Prediction database successfully
+2023-01-07/15:56:20		Tables created successfully!!
+2023-01-07/15:56:20		Prediction database closed successfully!!!
+2023-01-07/15:56:20		Opened Prediction database successfully
+2023-01-07/15:56:48		Data successfully inserted into Good_data table
+2023-01-07/15:56:48		Opened Prediction database successfully
+2023-01-07/15:56:48		Data successfully loaded from Good_data table
+2023-01-07/15:58:27		Opened Prediction database successfully
+2023-01-07/15:58:27		Tables created successfully!!
+2023-01-07/15:58:27		Prediction database closed successfully!!!
+2023-01-07/15:58:27		Opened Prediction database successfully
+2023-01-07/15:58:47		Data successfully inserted into Good_data table
+2023-01-07/15:58:47		Opened Prediction database successfully
+2023-01-07/15:58:47		Data successfully loaded from Good_data table
+2023-01-07/15:59:44		Opened Prediction database successfully
+2023-01-07/15:59:44		Tables created successfully!!
+2023-01-07/15:59:44		Prediction database closed successfully!!!
+2023-01-07/15:59:44		Opened Prediction database successfully
+2023-01-07/16:00:03		Data successfully inserted into Good_data table
+2023-01-07/16:00:04		Opened Prediction database successfully
+2023-01-07/16:00:04		Data successfully loaded from Good_data table
+2023-01-07/16:01:27		Opened Prediction database successfully
+2023-01-07/16:01:27		Tables created successfully!!
+2023-01-07/16:01:27		Prediction database closed successfully!!!
+2023-01-07/16:01:27		Opened Prediction database successfully
+2023-01-07/16:01:59		Data successfully inserted into Good_data table
+2023-01-07/16:02:00		Opened Prediction database successfully
+2023-01-07/16:02:00		Data successfully loaded from Good_data table
+2023-01-07/16:09:11		Opened Prediction database successfully
+2023-01-07/16:09:11		Tables created successfully!!
+2023-01-07/16:09:11		Prediction database closed successfully!!!
+2023-01-07/16:09:11		Opened Prediction database successfully
+2023-01-07/16:09:32		Data successfully inserted into Good_data table
+2023-01-07/16:09:32		Opened Prediction database successfully
+2023-01-07/16:09:32		Data successfully loaded from Good_data table
+2023-01-08/11:44:45		Opened Prediction database successfully
+2023-01-08/11:44:45		Error while creating table table Good_data already exists
+2023-01-08/11:45:44		Opened Prediction database successfully
+2023-01-08/11:45:44		Tables created successfully!!
+2023-01-08/11:45:44		Prediction database closed successfully!!!
+2023-01-08/11:45:44		Opened Prediction database successfully
+2023-01-08/11:46:08		Data successfully inserted into Good_data table
+2023-01-08/11:46:08		Opened Prediction database successfully
+2023-01-08/11:46:08		Data successfully loaded from Good_data table
+2023-01-08/12:51:24		Opened Prediction database successfully
+2023-01-08/12:51:24		Tables created successfully!!
+2023-01-08/12:51:25		Prediction database closed successfully!!!
+2023-01-08/12:51:25		Opened Prediction database successfully
+2023-01-08/12:51:43		Data successfully inserted into Good_data table
+2023-01-08/12:51:44		Opened Prediction database successfully
+2023-01-08/12:51:44		Data successfully loaded from Good_data table
+2023-01-08/12:53:17		Opened Prediction database successfully
+2023-01-08/12:53:17		Tables created successfully!!
+2023-01-08/12:53:17		Prediction database closed successfully!!!
+2023-01-08/12:53:17		Opened Prediction database successfully
+2023-01-08/12:53:43		Data successfully inserted into Good_data table
+2023-01-08/12:53:43		Opened Prediction database successfully
+2023-01-08/12:53:43		Data successfully loaded from Good_data table
+2023-01-08/12:53:43		Opened Prediction database successfully
+2023-01-08/12:53:44		Data successfully loaded from Good_data table
+2023-01-08/12:53:44		Opened Prediction database successfully
+2023-01-08/12:53:44		Data successfully loaded from Good_data table
+2023-01-08/13:17:45		Opened Prediction database successfully
+2023-01-08/13:17:45		Tables created successfully!!
+2023-01-08/13:17:45		Prediction database closed successfully!!!
+2023-01-08/13:17:45		Opened Prediction database successfully
+2023-01-08/13:18:06		Data successfully inserted into Good_data table
+2023-01-08/13:18:07		Opened Prediction database successfully
+2023-01-08/13:18:07		Data successfully loaded from Good_data table
+2023-01-08/13:18:08		Opened Prediction database successfully
+2023-01-08/13:18:08		Data successfully loaded from Good_data table
+2023-01-08/13:18:08		Opened Prediction database successfully
+2023-01-08/13:18:08		Data successfully loaded from Good_data table
+2023-01-08/15:40:48		Opened Prediction database successfully
+2023-01-08/15:40:48		Error While droping the table no such table: Good_data
+2023-01-08/15:42:51		Opened Prediction database successfully
+2023-01-08/15:42:51		Tables created successfully!!
+2023-01-08/15:42:51		Prediction database closed successfully!!!
+2023-01-08/15:42:51		Opened Prediction database successfully
+2023-01-08/15:43:13		Data successfully inserted into Good_data table
+2023-01-08/15:43:16		Opened Prediction database successfully
+2023-01-08/15:43:16		Data successfully loaded from Good_data table
+2023-01-08/15:43:17		Opened Prediction database successfully
+2023-01-08/15:43:17		Data successfully loaded from Good_data table
+2023-01-08/15:43:17		Opened Prediction database successfully
+2023-01-08/15:43:17		Data successfully loaded from Good_data table
+2023-01-08/15:47:14		Opened Prediction database successfully
+2023-01-08/15:47:14		Good_data Table droped successfully!!!
+2023-01-08/15:47:43		Opened Prediction database successfully
+2023-01-08/15:47:43		Tables created successfully!!
+2023-01-08/15:47:43		Prediction database closed successfully!!!
+2023-01-08/15:47:43		Opened Prediction database successfully
+2023-01-08/15:48:06		Data successfully inserted into Good_data table
+2023-01-08/15:48:06		Opened Prediction database successfully
+2023-01-08/15:48:06		Data successfully loaded from Good_data table
+2023-01-08/15:48:07		Opened Prediction database successfully
+2023-01-08/15:48:08		Data successfully loaded from Good_data table
+2023-01-08/15:48:08		Opened Prediction database successfully
+2023-01-08/15:48:08		Data successfully loaded from Good_data table
+2023-01-08/15:50:55		Opened Prediction database successfully
+2023-01-08/15:50:55		Error while creating table table Good_data already exists
+2023-01-08/15:54:10		Opened Prediction database successfully
+2023-01-08/15:54:10		Error while creating table table Good_data already exists
+2023-01-08/15:55:54		Opened Prediction database successfully
+2023-01-08/15:55:54		Tables created successfully!!
+2023-01-08/15:55:54		Prediction database closed successfully!!!
+2023-01-08/15:55:54		Opened Prediction database successfully
+2023-01-08/15:56:13		Data successfully inserted into Good_data table
+2023-01-08/15:56:13		Opened Prediction database successfully
+2023-01-08/15:56:14		Data successfully loaded from Good_data table
+2023-01-08/15:56:14		Opened Prediction database successfully
+2023-01-08/15:56:14		Good_data Table droped successfully!!!
+2023-01-08/15:56:15		Opened Prediction database successfully
+2023-01-08/15:56:15		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-08/15:58:42		Opened Prediction database successfully
+2023-01-08/15:58:42		Error While droping the table no such table: Good_data
+2023-01-08/15:59:32		Opened Prediction database successfully
+2023-01-08/15:59:32		Tables created successfully!!
+2023-01-08/15:59:32		Prediction database closed successfully!!!
+2023-01-08/15:59:32		Opened Prediction database successfully
+2023-01-08/15:59:52		Data successfully inserted into Good_data table
+2023-01-08/15:59:52		Opened Prediction database successfully
+2023-01-08/15:59:53		Data successfully loaded from Good_data table
+2023-01-08/15:59:54		Opened Prediction database successfully
+2023-01-08/15:59:54		Data successfully loaded from Good_data table
+2023-01-08/15:59:54		Opened Prediction database successfully
+2023-01-08/15:59:54		Data successfully loaded from Good_data table
+2023-01-08/16:00:22		Opened Prediction database successfully
+2023-01-08/16:00:22		Good_data Table droped successfully!!!
+2023-01-08/16:00:27		Opened Prediction database successfully
+2023-01-08/16:00:27		Error While droping the table no such table: Good_data
+2023-01-08/16:02:02		Opened Prediction database successfully
+2023-01-08/16:02:02		Tables created successfully!!
+2023-01-08/16:02:02		Prediction database closed successfully!!!
+2023-01-08/16:02:02		Opened Prediction database successfully
+2023-01-08/16:02:22		Data successfully inserted into Good_data table
+2023-01-08/16:02:22		Opened Prediction database successfully
+2023-01-08/16:02:23		Data successfully loaded from Good_data table
+2023-01-08/16:02:23		Opened Prediction database successfully
+2023-01-08/16:02:23		Good_data Table droped successfully!!!
+2023-01-08/16:02:24		Opened Prediction database successfully
+2023-01-08/16:02:24		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-08/16:04:33		Opened Prediction database successfully
+2023-01-08/16:04:33		Tables created successfully!!
+2023-01-08/16:04:33		Prediction database closed successfully!!!
+2023-01-08/16:04:33		Opened Prediction database successfully
+2023-01-08/16:04:52		Data successfully inserted into Good_data table
+2023-01-08/16:04:52		Opened Prediction database successfully
+2023-01-08/16:04:53		Data successfully loaded from Good_data table
+2023-01-08/16:04:54		Opened Prediction database successfully
+2023-01-08/16:04:54		Data successfully loaded from Good_data table
+2023-01-08/16:04:54		Opened Prediction database successfully
+2023-01-08/16:04:54		Data successfully loaded from Good_data table
+2023-01-08/16:04:55		Opened Prediction database successfully
+2023-01-08/16:04:55		Good_data Table droped successfully!!!
+2023-01-08/16:05:00		Opened Prediction database successfully
+2023-01-08/16:05:00		Tables created successfully!!
+2023-01-08/16:05:00		Prediction database closed successfully!!!
+2023-01-08/16:05:00		Opened Prediction database successfully
+2023-01-08/16:05:20		Data successfully inserted into Good_data table
+2023-01-08/16:05:22		Opened Prediction database successfully
+2023-01-08/16:05:23		Data successfully loaded from Good_data table
+2023-01-08/16:05:27		Opened Prediction database successfully
+2023-01-08/16:05:27		Data successfully loaded from Good_data table
+2023-01-08/16:05:27		Opened Prediction database successfully
+2023-01-08/16:05:28		Data successfully loaded from Good_data table
+2023-01-08/16:05:29		Opened Prediction database successfully
+2023-01-08/16:05:30		Good_data Table droped successfully!!!
+2023-01-08/16:05:34		Opened Prediction database successfully
+2023-01-08/16:05:34		Tables created successfully!!
+2023-01-08/16:05:34		Prediction database closed successfully!!!
+2023-01-08/16:05:34		Opened Prediction database successfully
+2023-01-08/16:06:01		Data successfully inserted into Good_data table
+2023-01-08/16:06:01		Opened Prediction database successfully
+2023-01-08/16:06:02		Data successfully loaded from Good_data table
+2023-01-08/16:06:04		Opened Prediction database successfully
+2023-01-08/16:06:04		Data successfully loaded from Good_data table
+2023-01-08/16:06:04		Opened Prediction database successfully
+2023-01-08/16:06:05		Data successfully loaded from Good_data table
+2023-01-08/16:06:06		Opened Prediction database successfully
+2023-01-08/16:06:06		Good_data Table droped successfully!!!
+2023-01-08/16:17:20		Opened Prediction database successfully
+2023-01-08/16:17:20		Tables created successfully!!
+2023-01-08/16:17:20		Prediction database closed successfully!!!
+2023-01-08/16:17:20		Opened Prediction database successfully
+2023-01-08/16:17:59		Data successfully inserted into Good_data table
+2023-01-08/16:18:00		Opened Prediction database successfully
+2023-01-08/16:18:00		Data successfully loaded from Good_data table
+2023-01-08/16:18:01		Opened Prediction database successfully
+2023-01-08/16:18:01		Data successfully loaded from Good_data table
+2023-01-08/16:18:01		Opened Prediction database successfully
+2023-01-08/16:18:01		Data successfully loaded from Good_data table
+2023-01-08/16:18:02		Opened Prediction database successfully
+2023-01-08/16:18:02		Good_data Table droped successfully!!!
+2023-01-08/16:22:03		Opened Prediction database successfully
+2023-01-08/16:22:03		Tables created successfully!!
+2023-01-08/16:22:03		Prediction database closed successfully!!!
+2023-01-08/16:22:03		Opened Prediction database successfully
+2023-01-08/16:22:23		Data successfully inserted into Good_data table
+2023-01-08/16:22:23		Opened Prediction database successfully
+2023-01-08/16:22:23		Data successfully loaded from Good_data table
+2023-01-08/16:22:24		Opened Prediction database successfully
+2023-01-08/16:22:24		Data successfully loaded from Good_data table
+2023-01-08/16:22:24		Opened Prediction database successfully
+2023-01-08/16:22:25		Data successfully loaded from Good_data table
+2023-01-08/16:22:25		Opened Prediction database successfully
+2023-01-08/16:22:25		Good_data Table droped successfully!!!
+2023-01-08/18:50:44		Opened Prediction database successfully
+2023-01-08/18:50:44		Tables created successfully!!
+2023-01-08/18:50:44		Prediction database closed successfully!!!
+2023-01-08/18:50:44		Opened Prediction database successfully
+2023-01-08/18:51:05		Data successfully inserted into Good_data table
+2023-01-08/18:51:05		Opened Prediction database successfully
+2023-01-08/18:51:06		Data successfully loaded from Good_data table
+2023-01-08/18:51:06		Opened Prediction database successfully
+2023-01-08/18:51:06		Data successfully loaded from Good_data table
+2023-01-08/18:51:06		Opened Prediction database successfully
+2023-01-08/18:51:07		Data successfully loaded from Good_data table
+2023-01-08/18:51:07		Opened Prediction database successfully
+2023-01-08/18:51:07		Good_data Table droped successfully!!!
+2023-01-14/20:46:59		Opened Prediction database successfully
+2023-01-14/20:46:59		Tables created successfully!!
+2023-01-14/20:46:59		Prediction database closed successfully!!!
+2023-01-14/20:46:59		Opened Prediction database successfully
+2023-01-14/20:47:20		Data successfully inserted into Good_data table
+2023-01-14/20:47:20		Opened Prediction database successfully
+2023-01-14/20:47:20		Data successfully loaded from Good_data table
+2023-01-14/20:47:21		Opened Prediction database successfully
+2023-01-14/20:47:21		Data successfully loaded from Good_data table
+2023-01-14/20:47:21		Opened Prediction database successfully
+2023-01-14/20:47:21		Data successfully loaded from Good_data table
+2023-01-14/20:47:21		Opened Prediction database successfully
+2023-01-14/20:47:21		Good_data Table droped successfully!!!
+2023-01-15/20:02:00		Opened Prediction database successfully
+2023-01-15/20:02:00		Tables created successfully!!
+2023-01-15/20:02:00		Prediction database closed successfully!!!
+2023-01-15/20:02:00		Opened Prediction database successfully
+2023-01-15/20:02:24		Data successfully inserted into Good_data table
+2023-01-15/20:02:24		Opened Prediction database successfully
+2023-01-15/20:02:25		Data successfully loaded from Good_data table
+2023-01-15/20:02:26		Opened Prediction database successfully
+2023-01-15/20:02:26		Data successfully loaded from Good_data table
+2023-01-15/20:02:26		Opened Prediction database successfully
+2023-01-15/20:02:26		Data successfully loaded from Good_data table
+2023-01-15/20:02:27		Opened Prediction database successfully
+2023-01-15/20:02:27		Good_data Table droped successfully!!!

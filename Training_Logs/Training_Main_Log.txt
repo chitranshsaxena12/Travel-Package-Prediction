@@ -1,0 +1,528 @@
+2022-12-27/15:51:02		Data Validation started
+2022-12-27/15:51:02		 Directory creation is started!!!
+2022-12-27/15:51:02		 Directory Successfully Created!!!
+2022-12-27/15:51:02		Table is Created Successfully
+2022-12-27/15:51:26		Data Successfully Inserted!!!
+2022-12-27/15:51:26		Good Data Folder is successfully Deleted....
+2022-12-27/15:51:26		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2022-12-27/15:51:26		Bad Data Folder is Successfully Deleted...
+2022-12-27/15:51:26		Data is Started to convert into Data Frame...
+2022-12-27/15:51:26		Data Successfully converted into Data Frame !!!!
+2023-01-02/16:00:21		Data Validation started
+2023-01-02/16:00:21		 Directory creation is started!!!
+2023-01-02/16:00:21		 Directory Successfully Created!!!
+2023-01-02/16:00:21		Table is Created Successfully
+2023-01-02/16:01:03		Data Successfully Inserted!!!
+2023-01-02/16:01:04		Good Data Folder is successfully Deleted....
+2023-01-02/16:01:04		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:01:04		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:20:53		Data Validation started
+2023-01-02/16:20:53		 Directory creation is started!!!
+2023-01-02/16:20:53		 Directory Successfully Created!!!
+2023-01-02/16:20:53		Table is Created Successfully
+2023-01-02/16:21:25		Data Successfully Inserted!!!
+2023-01-02/16:21:25		Good Data Folder is successfully Deleted....
+2023-01-02/16:21:25		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:21:25		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:22:31		Data Validation started
+2023-01-02/16:22:31		 Directory creation is started!!!
+2023-01-02/16:22:31		 Directory Successfully Created!!!
+2023-01-02/16:22:31		Table is Created Successfully
+2023-01-02/16:22:52		Data Successfully Inserted!!!
+2023-01-02/16:22:52		Good Data Folder is successfully Deleted....
+2023-01-02/16:22:52		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:22:52		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:25:28		Data Validation started
+2023-01-02/16:25:28		 Directory creation is started!!!
+2023-01-02/16:25:28		 Directory Successfully Created!!!
+2023-01-02/16:25:28		Table is Created Successfully
+2023-01-02/16:25:50		Data Successfully Inserted!!!
+2023-01-02/16:25:50		Good Data Folder is successfully Deleted....
+2023-01-02/16:25:50		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:25:50		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:27:54		Data Validation started
+2023-01-02/16:27:54		 Directory creation is started!!!
+2023-01-02/16:27:54		 Directory Successfully Created!!!
+2023-01-02/16:27:54		Table is Created Successfully
+2023-01-02/16:28:16		Data Successfully Inserted!!!
+2023-01-02/16:28:16		Good Data Folder is successfully Deleted....
+2023-01-02/16:28:16		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:28:16		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:30:08		Data Validation started
+2023-01-02/16:30:08		 Directory creation is started!!!
+2023-01-02/16:30:08		 Directory Successfully Created!!!
+2023-01-02/16:30:08		Table is Created Successfully
+2023-01-02/16:30:31		Data Successfully Inserted!!!
+2023-01-02/16:30:31		Good Data Folder is successfully Deleted....
+2023-01-02/16:30:31		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:30:31		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:32:38		Data Validation started
+2023-01-02/16:32:38		 Directory creation is started!!!
+2023-01-02/16:32:38		 Directory Successfully Created!!!
+2023-01-02/16:32:39		Table is Created Successfully
+2023-01-02/16:32:59		Data Successfully Inserted!!!
+2023-01-02/16:32:59		Good Data Folder is successfully Deleted....
+2023-01-02/16:32:59		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:32:59		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:34:51		Data Validation started
+2023-01-02/16:34:51		 Directory creation is started!!!
+2023-01-02/16:34:51		 Directory Successfully Created!!!
+2023-01-02/16:34:51		Table is Created Successfully
+2023-01-02/16:35:16		Data Successfully Inserted!!!
+2023-01-02/16:35:17		Good Data Folder is successfully Deleted....
+2023-01-02/16:35:17		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:35:17		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:35:55		Data Validation started
+2023-01-02/16:35:55		 Directory creation is started!!!
+2023-01-02/16:35:55		 Directory Successfully Created!!!
+2023-01-02/16:35:56		Table is Created Successfully
+2023-01-02/16:36:19		Data Successfully Inserted!!!
+2023-01-02/16:36:19		Good Data Folder is successfully Deleted....
+2023-01-02/16:36:19		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:36:19		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:37:31		Data Validation started
+2023-01-02/16:37:31		 Directory creation is started!!!
+2023-01-02/16:37:31		 Directory Successfully Created!!!
+2023-01-02/16:37:31		Table is Created Successfully
+2023-01-02/16:37:52		Data Successfully Inserted!!!
+2023-01-02/16:37:52		Good Data Folder is successfully Deleted....
+2023-01-02/16:37:53		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:37:53		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:39:04		Data Validation started
+2023-01-02/16:39:04		 Directory creation is started!!!
+2023-01-02/16:39:04		 Directory Successfully Created!!!
+2023-01-02/16:39:04		Table is Created Successfully
+2023-01-02/16:39:28		Data Successfully Inserted!!!
+2023-01-02/16:39:28		Good Data Folder is successfully Deleted....
+2023-01-02/16:39:28		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:39:28		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:40:25		Data Validation started
+2023-01-02/16:40:25		 Directory creation is started!!!
+2023-01-02/16:40:25		 Directory Successfully Created!!!
+2023-01-02/16:40:25		Table is Created Successfully
+2023-01-02/16:40:47		Data Successfully Inserted!!!
+2023-01-02/16:40:47		Good Data Folder is successfully Deleted....
+2023-01-02/16:40:47		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:40:47		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:41:36		Data Validation started
+2023-01-02/16:41:36		 Directory creation is started!!!
+2023-01-02/16:41:36		 Directory Successfully Created!!!
+2023-01-02/16:41:36		Table is Created Successfully
+2023-01-02/16:41:56		Data Successfully Inserted!!!
+2023-01-02/16:41:56		Good Data Folder is successfully Deleted....
+2023-01-02/16:41:56		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:41:56		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:43:52		Data Validation started
+2023-01-02/16:43:52		 Directory creation is started!!!
+2023-01-02/16:43:52		 Directory Successfully Created!!!
+2023-01-02/16:43:52		Table is Created Successfully
+2023-01-02/16:44:12		Data Successfully Inserted!!!
+2023-01-02/16:44:12		Good Data Folder is successfully Deleted....
+2023-01-02/16:44:12		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:44:12		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:45:13		Data Validation started
+2023-01-02/16:45:13		 Directory creation is started!!!
+2023-01-02/16:45:13		 Directory Successfully Created!!!
+2023-01-02/16:45:13		Table is Created Successfully
+2023-01-02/16:45:34		Data Successfully Inserted!!!
+2023-01-02/16:45:34		Good Data Folder is successfully Deleted....
+2023-01-02/16:45:34		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:45:34		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:46:23		Data Validation started
+2023-01-02/16:46:23		 Directory creation is started!!!
+2023-01-02/16:46:23		 Directory Successfully Created!!!
+2023-01-02/16:46:23		Table is Created Successfully
+2023-01-02/16:46:43		Data Successfully Inserted!!!
+2023-01-02/16:46:43		Good Data Folder is successfully Deleted....
+2023-01-02/16:46:43		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:46:43		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:47:58		Data Validation started
+2023-01-02/16:47:58		 Directory creation is started!!!
+2023-01-02/16:47:58		 Directory Successfully Created!!!
+2023-01-02/16:47:58		Table is Created Successfully
+2023-01-02/16:48:22		Data Successfully Inserted!!!
+2023-01-02/16:48:23		Good Data Folder is successfully Deleted....
+2023-01-02/16:48:23		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:48:23		Bad Data Folder is Successfully Deleted...
+2023-01-02/16:53:57		Data Validation started
+2023-01-02/16:53:57		 Directory creation is started!!!
+2023-01-02/16:53:57		 Directory Successfully Created!!!
+2023-01-02/16:53:58		Table is Created Successfully
+2023-01-02/16:54:22		Data Successfully Inserted!!!
+2023-01-02/16:54:22		Good Data Folder is successfully Deleted....
+2023-01-02/16:54:22		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-02/16:54:22		Bad Data Folder is Successfully Deleted...
+2023-01-03/12:24:58		Data Validation started
+2023-01-03/12:24:58		 Directory creation is started!!!
+2023-01-03/12:24:58		 Directory Successfully Created!!!
+2023-01-03/12:24:58		Table is Created Successfully
+2023-01-03/12:25:29		Data Successfully Inserted!!!
+2023-01-03/12:25:29		Good Data Folder is successfully Deleted....
+2023-01-03/12:25:29		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-03/12:25:29		Bad Data Folder is Successfully Deleted...
+2023-01-03/12:27:07		Data Validation started
+2023-01-03/12:27:07		 Directory creation is started!!!
+2023-01-03/12:27:07		 Directory Successfully Created!!!
+2023-01-03/12:27:07		Table is Created Successfully
+2023-01-03/12:27:36		Data Successfully Inserted!!!
+2023-01-03/12:27:36		Good Data Folder is successfully Deleted....
+2023-01-03/12:27:36		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-03/12:27:36		Bad Data Folder is Successfully Deleted...
+2023-01-03/14:40:35		Data Validation started
+2023-01-03/14:40:35		 Directory creation is started!!!
+2023-01-03/14:40:35		 Directory Successfully Created!!!
+2023-01-03/14:40:35		Table is Created Successfully
+2023-01-03/14:40:56		Data Successfully Inserted!!!
+2023-01-03/14:40:56		Good Data Folder is successfully Deleted....
+2023-01-03/14:40:56		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-03/14:40:56		Bad Data Folder is Successfully Deleted...
+2023-01-04/12:01:36		Data Validation started
+2023-01-04/12:01:36		 Directory creation is started!!!
+2023-01-04/12:01:36		 Directory Successfully Created!!!
+2023-01-04/12:01:36		Table is Created Successfully
+2023-01-04/12:02:07		Data Successfully Inserted!!!
+2023-01-04/12:02:07		Good Data Folder is successfully Deleted....
+2023-01-04/12:02:07		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/12:02:07		Bad Data Folder is Successfully Deleted...
+2023-01-04/16:39:51		Data Validation started
+2023-01-04/16:39:51		 Directory creation is started!!!
+2023-01-04/16:39:51		 Directory Successfully Created!!!
+2023-01-04/16:39:51		Table is Created Successfully
+2023-01-04/16:40:34		Data Successfully Inserted!!!
+2023-01-04/16:40:34		Good Data Folder is successfully Deleted....
+2023-01-04/16:40:34		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/16:40:34		Bad Data Folder is Successfully Deleted...
+2023-01-04/17:11:43		Data Validation started
+2023-01-04/17:11:43		 Directory creation is started!!!
+2023-01-04/17:11:43		 Directory Successfully Created!!!
+2023-01-04/17:11:44		Table is Created Successfully
+2023-01-04/17:12:29		Data Successfully Inserted!!!
+2023-01-04/17:12:29		Good Data Folder is successfully Deleted....
+2023-01-04/17:12:29		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/17:12:30		Bad Data Folder is Successfully Deleted...
+2023-01-04/17:13:11		Data Validation started
+2023-01-04/17:13:11		 Directory creation is started!!!
+2023-01-04/17:13:11		 Directory Successfully Created!!!
+2023-01-04/17:13:11		Table is Created Successfully
+2023-01-04/17:13:34		Data Successfully Inserted!!!
+2023-01-04/17:13:34		Good Data Folder is successfully Deleted....
+2023-01-04/17:13:34		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/17:13:34		Bad Data Folder is Successfully Deleted...
+2023-01-04/17:44:22		Data Validation started
+2023-01-04/17:44:22		 Directory creation is started!!!
+2023-01-04/17:44:22		 Directory Successfully Created!!!
+2023-01-04/17:44:22		Table is Created Successfully
+2023-01-04/17:44:43		Data Successfully Inserted!!!
+2023-01-04/17:44:43		Good Data Folder is successfully Deleted....
+2023-01-04/17:44:43		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/17:44:44		Bad Data Folder is Successfully Deleted...
+2023-01-04/18:18:43		Data Validation started
+2023-01-04/18:18:43		 Directory creation is started!!!
+2023-01-04/18:18:43		 Directory Successfully Created!!!
+2023-01-04/18:18:43		Table is Created Successfully
+2023-01-04/18:19:22		Data Successfully Inserted!!!
+2023-01-04/18:19:22		Good Data Folder is successfully Deleted....
+2023-01-04/18:19:22		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/18:19:22		Bad Data Folder is Successfully Deleted...
+2023-01-04/18:23:56		Data Validation started
+2023-01-04/18:23:56		 Directory creation is started!!!
+2023-01-04/18:23:56		 Directory Successfully Created!!!
+2023-01-04/18:23:57		Table is Created Successfully
+2023-01-04/18:24:20		Data Successfully Inserted!!!
+2023-01-04/18:24:20		Good Data Folder is successfully Deleted....
+2023-01-04/18:24:20		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/18:24:20		Bad Data Folder is Successfully Deleted...
+2023-01-04/18:32:30		Data Validation started
+2023-01-04/18:32:30		 Directory creation is started!!!
+2023-01-04/18:32:30		 Directory Successfully Created!!!
+2023-01-04/18:32:30		Table is Created Successfully
+2023-01-04/18:33:01		Data Successfully Inserted!!!
+2023-01-04/18:33:01		Good Data Folder is successfully Deleted....
+2023-01-04/18:33:01		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/18:33:01		Bad Data Folder is Successfully Deleted...
+2023-01-04/18:35:49		Data Validation started
+2023-01-04/18:35:49		 Directory creation is started!!!
+2023-01-04/18:35:49		 Directory Successfully Created!!!
+2023-01-04/18:35:49		Table is Created Successfully
+2023-01-04/18:36:12		Data Successfully Inserted!!!
+2023-01-04/18:36:12		Good Data Folder is successfully Deleted....
+2023-01-04/18:36:12		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/18:36:12		Bad Data Folder is Successfully Deleted...
+2023-01-04/18:37:25		Data Validation started
+2023-01-04/18:37:25		 Directory creation is started!!!
+2023-01-04/18:37:25		 Directory Successfully Created!!!
+2023-01-04/18:37:25		Table is Created Successfully
+2023-01-04/18:37:52		Data Successfully Inserted!!!
+2023-01-04/18:37:52		Good Data Folder is successfully Deleted....
+2023-01-04/18:37:52		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/18:37:52		Bad Data Folder is Successfully Deleted...
+2023-01-04/18:38:48		Data Validation started
+2023-01-04/18:38:48		 Directory creation is started!!!
+2023-01-04/18:38:48		 Directory Successfully Created!!!
+2023-01-04/18:38:48		Table is Created Successfully
+2023-01-04/18:39:19		Data Successfully Inserted!!!
+2023-01-04/18:39:19		Good Data Folder is successfully Deleted....
+2023-01-04/18:39:19		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/18:39:19		Bad Data Folder is Successfully Deleted...
+2023-01-04/18:41:04		Data Validation started
+2023-01-04/18:41:04		 Directory creation is started!!!
+2023-01-04/18:41:04		 Directory Successfully Created!!!
+2023-01-04/18:41:04		Table is Created Successfully
+2023-01-04/18:41:42		Data Successfully Inserted!!!
+2023-01-04/18:41:44		Good Data Folder is successfully Deleted....
+2023-01-04/18:41:44		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/18:41:44		Bad Data Folder is Successfully Deleted...
+2023-01-04/18:42:59		Data Validation started
+2023-01-04/18:42:59		 Directory creation is started!!!
+2023-01-04/18:42:59		 Directory Successfully Created!!!
+2023-01-04/18:43:00		Table is Created Successfully
+2023-01-04/18:43:52		Data Successfully Inserted!!!
+2023-01-04/18:43:52		Good Data Folder is successfully Deleted....
+2023-01-04/18:43:52		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/18:43:52		Bad Data Folder is Successfully Deleted...
+2023-01-04/18:45:59		Data Validation started
+2023-01-04/18:45:59		 Directory creation is started!!!
+2023-01-04/18:45:59		 Directory Successfully Created!!!
+2023-01-04/18:46:00		Table is Created Successfully
+2023-01-04/18:46:36		Data Successfully Inserted!!!
+2023-01-04/18:46:37		Good Data Folder is successfully Deleted....
+2023-01-04/18:46:37		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/18:46:39		Bad Data Folder is Successfully Deleted...
+2023-01-04/18:49:06		Data Validation started
+2023-01-04/18:49:06		 Directory creation is started!!!
+2023-01-04/18:49:06		 Directory Successfully Created!!!
+2023-01-04/18:49:07		Table is Created Successfully
+2023-01-04/18:49:54		Data Successfully Inserted!!!
+2023-01-04/18:49:54		Good Data Folder is successfully Deleted....
+2023-01-04/18:49:54		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/18:49:54		Bad Data Folder is Successfully Deleted...
+2023-01-04/19:08:25		Data Validation started
+2023-01-04/19:08:25		 Directory creation is started!!!
+2023-01-04/19:08:25		 Directory Successfully Created!!!
+2023-01-04/19:08:26		Table is Created Successfully
+2023-01-04/19:08:53		Data Successfully Inserted!!!
+2023-01-04/19:08:53		Good Data Folder is successfully Deleted....
+2023-01-04/19:08:53		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-04/19:08:53		Bad Data Folder is Successfully Deleted...
+2023-01-07/13:42:28		Data Validation started
+2023-01-07/13:42:28		 Directory creation is started!!!
+2023-01-07/13:42:28		 Directory Successfully Created!!!
+2023-01-07/13:42:28		Table is Created Successfully
+2023-01-07/13:43:11		Data Successfully Inserted!!!
+2023-01-07/13:43:11		Good Data Folder is successfully Deleted....
+2023-01-07/13:43:11		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-07/13:43:11		Bad Data Folder is Successfully Deleted...
+2023-01-08/15:41:53		Data Validation started
+2023-01-08/15:41:53		 Directory creation is started!!!
+2023-01-08/15:41:53		 Directory Successfully Created!!!
+2023-01-08/15:41:54		Table is Created Successfully
+2023-01-08/15:42:20		Data Successfully Inserted!!!
+2023-01-08/15:42:20		Good Data Folder is successfully Deleted....
+2023-01-08/15:42:20		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-08/15:42:20		Bad Data Folder is Successfully Deleted...
+2023-01-08/15:50:23		Data Validation started
+2023-01-08/15:50:23		 Directory creation is started!!!
+2023-01-08/15:50:23		 Directory Successfully Created!!!
+2023-01-08/15:50:24		Table is Created Successfully
+2023-01-08/15:50:46		Data Successfully Inserted!!!
+2023-01-08/15:50:46		Good Data Folder is successfully Deleted....
+2023-01-08/15:50:46		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-08/15:50:46		Bad Data Folder is Successfully Deleted...
+2023-01-08/15:55:20		Data Validation started
+2023-01-08/15:55:20		 Directory creation is started!!!
+2023-01-08/15:55:20		 Directory Successfully Created!!!
+2023-01-08/15:55:20		Table is Created Successfully
+2023-01-08/15:55:43		Data Successfully Inserted!!!
+2023-01-08/15:55:43		Good Data Folder is successfully Deleted....
+2023-01-08/15:55:43		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-08/15:55:43		Bad Data Folder is Successfully Deleted...
+2023-01-08/16:21:08		Data Validation started
+2023-01-08/16:21:08		 Directory creation is started!!!
+2023-01-08/16:21:08		 Directory Successfully Created!!!
+2023-01-08/16:21:08		Table is Created Successfully
+2023-01-08/16:21:45		Data Successfully Inserted!!!
+2023-01-08/16:21:45		Good Data Folder is successfully Deleted....
+2023-01-08/16:21:45		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-08/16:21:45		Bad Data Folder is Successfully Deleted...
+2023-01-14/20:19:27		Data Validation started
+2023-01-14/20:19:27		 Directory creation is started!!!
+2023-01-14/20:19:27		 Directory Successfully Created!!!
+2023-01-14/20:19:28		Table is Created Successfully
+2023-01-14/20:19:58		Data Successfully Inserted!!!
+2023-01-14/20:19:58		Good Data Folder is successfully Deleted....
+2023-01-14/20:19:58		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/20:19:58		Bad Data Folder is Successfully Deleted...
+2023-01-14/20:45:59		Data Validation started
+2023-01-14/20:45:59		 Directory creation is started!!!
+2023-01-14/20:45:59		 Directory Successfully Created!!!
+2023-01-14/20:45:59		Table is Created Successfully
+2023-01-14/20:46:31		Data Successfully Inserted!!!
+2023-01-14/20:46:39		Good Data Folder is successfully Deleted....
+2023-01-14/20:46:40		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/20:46:40		Bad Data Folder is Successfully Deleted...
+2023-01-14/20:53:09		Data Validation started
+2023-01-14/20:53:09		 Directory creation is started!!!
+2023-01-14/20:53:09		 Directory Successfully Created!!!
+2023-01-14/20:53:10		Table is Created Successfully
+2023-01-14/20:53:36		Data Successfully Inserted!!!
+2023-01-14/20:53:36		Good Data Folder is successfully Deleted....
+2023-01-14/20:53:36		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/20:53:36		Bad Data Folder is Successfully Deleted...
+2023-01-14/20:55:56		Data Validation started
+2023-01-14/20:55:56		Data Validation started
+2023-01-14/20:56:11		Data Validation started
+2023-01-14/20:56:12		 Directory creation is started!!!
+2023-01-14/20:56:12		 Directory Successfully Created!!!
+2023-01-14/20:56:12		Table is Created Successfully
+2023-01-14/20:56:30		Data Successfully Inserted!!!
+2023-01-14/20:56:30		Good Data Folder is successfully Deleted....
+2023-01-14/20:56:30		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/20:56:30		Bad Data Folder is Successfully Deleted...
+2023-01-14/21:52:50		Data Validation started
+2023-01-14/21:52:50		Data Validation started
+2023-01-14/21:54:27		Data Validation started
+2023-01-14/21:54:27		Data Validation started
+2023-01-14/21:54:39		Data Validation started
+2023-01-14/21:54:39		 Directory creation is started!!!
+2023-01-14/21:54:39		 Directory Successfully Created!!!
+2023-01-14/21:54:40		Table is Created Successfully
+2023-01-14/21:55:02		Data Successfully Inserted!!!
+2023-01-14/21:55:18		Good Data Folder is successfully Deleted....
+2023-01-14/21:55:18		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/21:55:19		Bad Data Folder is Successfully Deleted...
+2023-01-14/21:58:02		Data Validation started
+2023-01-14/21:58:02		 Directory creation is started!!!
+2023-01-14/21:58:02		 Directory Successfully Created!!!
+2023-01-14/21:58:02		Table is Created Successfully
+2023-01-14/21:58:24		Data Successfully Inserted!!!
+2023-01-14/21:58:24		Good Data Folder is successfully Deleted....
+2023-01-14/21:58:24		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/21:58:24		Bad Data Folder is Successfully Deleted...
+2023-01-14/22:05:06		Data Validation started
+2023-01-14/22:05:06		 Directory creation is started!!!
+2023-01-14/22:05:06		 Directory Successfully Created!!!
+2023-01-14/22:05:07		Table is Created Successfully
+2023-01-14/22:05:33		Data Successfully Inserted!!!
+2023-01-14/22:05:33		Good Data Folder is successfully Deleted....
+2023-01-14/22:05:33		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/22:05:33		Bad Data Folder is Successfully Deleted...
+2023-01-14/22:10:54		Data Validation started
+2023-01-14/22:10:54		Data Validation started
+2023-01-14/22:11:06		Data Validation started
+2023-01-14/22:11:06		 Directory creation is started!!!
+2023-01-14/22:11:06		 Directory Successfully Created!!!
+2023-01-14/22:11:07		Table is Created Successfully
+2023-01-14/22:11:28		Data Successfully Inserted!!!
+2023-01-14/22:11:28		Good Data Folder is successfully Deleted....
+2023-01-14/22:11:29		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/22:11:29		Bad Data Folder is Successfully Deleted...
+2023-01-14/22:12:51		Data Validation started
+2023-01-14/22:24:50		Data Validation started
+2023-01-14/22:24:50		 Directory creation is started!!!
+2023-01-14/22:24:50		 Directory Successfully Created!!!
+2023-01-14/22:24:50		Table is Created Successfully
+2023-01-14/22:25:31		Data Successfully Inserted!!!
+2023-01-14/22:25:31		Good Data Folder is successfully Deleted....
+2023-01-14/22:25:32		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/22:25:32		Bad Data Folder is Successfully Deleted...
+2023-01-14/22:27:22		Data Validation started
+2023-01-14/22:27:22		 Directory creation is started!!!
+2023-01-14/22:27:22		 Directory Successfully Created!!!
+2023-01-14/22:28:44		Data Validation started
+2023-01-14/22:28:44		 Directory creation is started!!!
+2023-01-14/22:28:44		 Directory Successfully Created!!!
+2023-01-14/22:29:20		Data Validation started
+2023-01-14/22:29:20		 Directory creation is started!!!
+2023-01-14/22:29:20		 Directory Successfully Created!!!
+2023-01-14/22:29:43		Data Validation started
+2023-01-14/22:29:43		 Directory creation is started!!!
+2023-01-14/22:29:43		 Directory Successfully Created!!!
+2023-01-14/22:30:13		Data Validation started
+2023-01-14/22:30:13		 Directory creation is started!!!
+2023-01-14/22:30:13		 Directory Successfully Created!!!
+2023-01-14/22:30:54		Data Validation started
+2023-01-14/22:30:54		 Directory creation is started!!!
+2023-01-14/22:30:54		 Directory Successfully Created!!!
+2023-01-14/22:33:00		Data Validation started
+2023-01-14/22:33:00		 Directory creation is started!!!
+2023-01-14/22:33:00		 Directory Successfully Created!!!
+2023-01-14/22:33:00		Table is Created Successfully
+2023-01-14/22:33:24		Data Successfully Inserted!!!
+2023-01-14/22:33:24		Good Data Folder is successfully Deleted....
+2023-01-14/22:33:24		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/22:33:24		Bad Data Folder is Successfully Deleted...
+2023-01-14/22:33:45		Data Validation started
+2023-01-14/22:33:45		 Directory creation is started!!!
+2023-01-14/22:33:45		 Directory Successfully Created!!!
+2023-01-14/22:33:45		Table is Created Successfully
+2023-01-14/22:34:09		Data Successfully Inserted!!!
+2023-01-14/22:34:09		Good Data Folder is successfully Deleted....
+2023-01-14/22:34:09		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/22:34:09		Bad Data Folder is Successfully Deleted...
+2023-01-14/22:34:28		Data Validation started
+2023-01-14/22:34:37		Data Validation started
+2023-01-14/22:34:37		 Directory creation is started!!!
+2023-01-14/22:34:37		 Directory Successfully Created!!!
+2023-01-14/22:34:37		Table is Created Successfully
+2023-01-14/22:35:01		Data Successfully Inserted!!!
+2023-01-14/22:35:01		Good Data Folder is successfully Deleted....
+2023-01-14/22:35:01		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/22:35:02		Bad Data Folder is Successfully Deleted...
+2023-01-14/22:35:16		Data Validation started
+2023-01-14/22:35:16		 Directory creation is started!!!
+2023-01-14/22:35:16		 Directory Successfully Created!!!
+2023-01-14/22:35:16		Table is Created Successfully
+2023-01-14/22:35:16		Data Successfully Inserted!!!
+2023-01-14/22:35:16		Good Data Folder is successfully Deleted....
+2023-01-14/22:35:16		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/22:35:16		Bad Data Folder is Successfully Deleted...
+2023-01-14/22:35:37		Data Validation started
+2023-01-14/22:35:37		 Directory creation is started!!!
+2023-01-14/22:35:37		 Directory Successfully Created!!!
+2023-01-14/22:35:43		Data Validation started
+2023-01-14/22:35:43		 Directory creation is started!!!
+2023-01-14/22:35:43		 Directory Successfully Created!!!
+2023-01-14/22:37:03		Data Validation started
+2023-01-14/22:37:03		 Directory creation is started!!!
+2023-01-14/22:37:03		 Directory Successfully Created!!!
+2023-01-14/22:37:03		Table is Created Successfully
+2023-01-14/22:37:20		Data Successfully Inserted!!!
+2023-01-14/22:37:20		Good Data Folder is successfully Deleted....
+2023-01-14/22:37:20		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/22:37:20		Bad Data Folder is Successfully Deleted...
+2023-01-14/22:37:55		Data Validation started
+2023-01-14/22:38:24		Data Validation started
+2023-01-14/22:38:24		 Directory creation is started!!!
+2023-01-14/22:38:24		 Directory Successfully Created!!!
+2023-01-14/22:38:24		Table is Created Successfully
+2023-01-14/22:38:42		Data Successfully Inserted!!!
+2023-01-14/22:38:49		Good Data Folder is successfully Deleted....
+2023-01-14/22:38:49		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/22:38:49		Bad Data Folder is Successfully Deleted...
+2023-01-14/22:39:09		Data Validation started
+2023-01-14/22:39:09		 Directory creation is started!!!
+2023-01-14/22:39:09		 Directory Successfully Created!!!
+2023-01-14/22:39:09		Table is Created Successfully
+2023-01-14/22:39:09		Data Successfully Inserted!!!
+2023-01-14/22:39:09		Good Data Folder is successfully Deleted....
+2023-01-14/22:39:09		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/22:39:09		Bad Data Folder is Successfully Deleted...
+2023-01-14/22:39:45		Data Validation started
+2023-01-14/22:39:45		 Directory creation is started!!!
+2023-01-14/22:39:45		 Directory Successfully Created!!!
+2023-01-14/22:42:51		Data Validation started
+2023-01-14/22:42:51		 Directory creation is started!!!
+2023-01-14/22:42:51		 Directory Successfully Created!!!
+2023-01-14/22:42:51		Table is Created Successfully
+2023-01-14/22:43:10		Data Successfully Inserted!!!
+2023-01-14/22:43:10		Good Data Folder is successfully Deleted....
+2023-01-14/22:43:10		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-14/22:43:10		Bad Data Folder is Successfully Deleted...
+2023-01-15/20:00:53		Data Validation started
+2023-01-15/20:00:53		 Directory creation is started!!!
+2023-01-15/20:00:53		 Directory Successfully Created!!!
+2023-01-15/20:00:53		Table is Created Successfully
+2023-01-15/20:01:38		Data Successfully Inserted!!!
+2023-01-15/20:01:40		Good Data Folder is successfully Deleted....
+2023-01-15/20:01:40		Bad Data Successfully Transfer to Bad Archive data folder!!!!
+2023-01-15/20:01:40		Bad Data Folder is Successfully Deleted...

@@ -1,0 +1,6 @@
+2022-12-27/13:28:35		Error while creating table: near "Enquiry": syntax error 
+2022-12-27/13:34:06		Error while creating table: near "Enquiry": syntax error 
+2022-12-27/13:34:49		Error while creating table: near "Enquiry": syntax error 
+2022-12-27/14:24:03		Error while creating table: near "Enquiry": syntax error 
+2022-12-27/14:24:18		Error while creating table: no such table: Good_Raw_Data 
+2022-12-27/13:28:09		Error while creating table: near "Enquiry": syntax error 

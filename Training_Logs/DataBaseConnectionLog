@@ -1,0 +1,644 @@
+2022-12-21/19:38:01		Opened training database successfully
+2022-12-21/19:38:01		Error while creating table near "Good_data": syntax error
+2022-12-21/19:39:13		Opened training database successfully
+2022-12-21/19:39:13		Error while creating table near "Good_data": syntax error
+2022-12-21/19:41:51		Opened training database successfully
+2022-12-21/19:41:51		Error while creating table near "training": syntax error
+2022-12-21/19:44:40		Opened training database successfully
+2022-12-21/19:44:40		Tables created successfully!!
+2022-12-21/19:44:40		training database closed successfully!!!
+2022-12-21/19:44:40		Opened training database successfully
+2022-12-21/19:44:40		Error while inserting data in Good_data table [Errno 2] No such file or directory: 'mydata.csv'
+2022-12-21/19:47:04		Opened training database successfully
+2022-12-21/19:47:04		Error while creating table table Good_data already exists
+2022-12-21/19:47:50		Opened training database successfully
+2022-12-21/19:47:50		Tables created successfully!!
+2022-12-21/19:47:50		training database closed successfully!!!
+2022-12-21/19:47:50		Opened training database successfully
+2022-12-21/19:47:50		Error while inserting data in Good_data table [Errno 2] No such file or directory: 'mydata.csv'
+2022-12-23/12:30:56		Opened training database successfully
+2022-12-23/12:30:56		Tables created successfully!!
+2022-12-23/12:30:56		training database closed successfully!!!
+2022-12-23/12:30:56		Opened training database successfully
+2022-12-23/12:30:56		Error while inserting data in Good_data table [Errno 2] No such file or directory: 'mydata.csv'
+2022-12-23/12:40:52		Opened training database successfully
+2022-12-23/12:40:52		Error while creating table table Good_data already exists
+2022-12-23/12:41:34		Opened training database successfully
+2022-12-23/12:41:34		Tables created successfully!!
+2022-12-23/12:41:34		training database closed successfully!!!
+2022-12-23/12:41:34		Opened training database successfully
+2022-12-23/12:41:34		Data successfully inserted into Good_data table
+2022-12-23/12:41:34		Opened training database successfully
+2022-12-23/12:41:34		Data successfully loaded from Good_data table
+2022-12-23/12:51:56		Opened training database successfully
+2022-12-23/12:51:56		Tables created successfully!!
+2022-12-23/12:51:56		training database closed successfully!!!
+2022-12-23/12:51:56		Opened training database successfully
+2022-12-23/12:51:57		Data successfully inserted into Good_data table
+2022-12-23/12:54:56		Opened training database successfully
+2022-12-23/12:54:56		Error while creating table table Good_data already exists
+2022-12-23/12:55:57		Opened training database successfully
+2022-12-23/12:55:57		Tables created successfully!!
+2022-12-23/12:55:57		training database closed successfully!!!
+2022-12-23/12:55:57		Opened training database successfully
+2022-12-23/12:55:58		Data successfully inserted into Good_data table
+2022-12-23/13:04:21		Opened training database successfully
+2022-12-23/13:04:21		Tables created successfully!!
+2022-12-23/13:04:21		training database closed successfully!!!
+2022-12-23/13:04:21		Opened training database successfully
+2022-12-23/13:04:22		Data successfully inserted into Good_data table
+2022-12-23/13:13:46		Opened training database successfully
+2022-12-23/13:13:46		Tables created successfully!!
+2022-12-23/13:13:46		training database closed successfully!!!
+2022-12-23/13:13:46		Opened training database successfully
+2022-12-23/13:13:46		Data successfully inserted into Good_data table
+2022-12-23/14:33:33		Opened training database successfully
+2022-12-23/14:33:34		Tables created successfully!!
+2022-12-23/14:33:34		training database closed successfully!!!
+2022-12-23/14:33:34		Opened training database successfully
+2022-12-23/14:33:34		Data successfully inserted into Good_data table
+2022-12-23/14:43:27		Opened training database successfully
+2022-12-23/14:43:27		Tables created successfully!!
+2022-12-23/14:43:27		training database closed successfully!!!
+2022-12-23/14:43:27		Opened training database successfully
+2022-12-23/14:43:27		Data successfully inserted into Good_data table
+2022-12-23/14:51:59		Opened training database successfully
+2022-12-23/14:51:59		Tables created successfully!!
+2022-12-23/14:51:59		training database closed successfully!!!
+2022-12-23/14:51:59		Opened training database successfully
+2022-12-23/14:51:59		Data successfully inserted into Good_data table
+2022-12-24/12:24:23		Opened training database successfully
+2022-12-24/12:24:23		Tables created successfully!!
+2022-12-24/12:24:23		training database closed successfully!!!
+2022-12-24/12:24:23		Opened training database successfully
+2022-12-24/12:24:23		Data successfully inserted into Good_data table
+2022-12-24/12:39:59		Opened training database successfully
+2022-12-24/12:39:59		Tables created successfully!!
+2022-12-24/12:39:59		training database closed successfully!!!
+2022-12-24/12:41:15		Opened training database successfully
+2022-12-24/12:41:15		Tables created successfully!!
+2022-12-24/12:41:15		training database closed successfully!!!
+2022-12-24/12:41:15		Opened training database successfully
+2022-12-24/12:41:15		Error while inserting data in Good_data table near "Enquiry": syntax error
+2022-12-24/12:42:21		Opened training database successfully
+2022-12-24/12:42:21		Tables created successfully!!
+2022-12-24/12:42:21		training database closed successfully!!!
+2022-12-24/12:42:21		Opened training database successfully
+2022-12-24/12:42:21		Error while inserting data in Good_data table near "Enquiry": syntax error
+2022-12-24/12:42:58		Opened training database successfully
+2022-12-24/12:42:58		Tables created successfully!!
+2022-12-24/12:42:58		training database closed successfully!!!
+2022-12-24/12:42:58		Opened training database successfully
+2022-12-24/12:42:58		Error while inserting data in Good_data table near "Enquiry": syntax error
+2022-12-24/12:46:10		Opened training database successfully
+2022-12-24/12:46:10		Tables created successfully!!
+2022-12-24/12:46:10		training database closed successfully!!!
+2022-12-24/12:46:10		Opened training database successfully
+2022-12-24/12:46:10		Error while inserting data in Good_data table no such column: list_
+2022-12-24/12:46:55		Opened training database successfully
+2022-12-24/12:46:55		Tables created successfully!!
+2022-12-24/12:46:55		training database closed successfully!!!
+2022-12-24/12:46:55		Opened training database successfully
+2022-12-24/12:46:55		Error while inserting data in Good_data table near "Enquiry": syntax error
+2022-12-24/14:09:03		Opened training database successfully
+2022-12-24/14:09:03		Tables created successfully!!
+2022-12-24/14:09:03		training database closed successfully!!!
+2022-12-24/14:09:03		Opened training database successfully
+2022-12-24/14:09:57		Opened training database successfully
+2022-12-24/14:09:57		Tables created successfully!!
+2022-12-24/14:09:57		training database closed successfully!!!
+2022-12-24/14:09:57		Opened training database successfully
+2022-12-24/14:10:49		Opened training database successfully
+2022-12-24/14:10:49		Tables created successfully!!
+2022-12-24/14:10:49		training database closed successfully!!!
+2022-12-24/14:10:49		Opened training database successfully
+2022-12-24/14:12:07		Opened training database successfully
+2022-12-24/14:12:07		Tables created successfully!!
+2022-12-24/14:12:07		training database closed successfully!!!
+2022-12-24/14:12:07		Opened training database successfully
+2022-12-24/14:13:38		Opened training database successfully
+2022-12-24/14:13:38		Tables created successfully!!
+2022-12-24/14:13:38		training database closed successfully!!!
+2022-12-24/14:13:38		Opened training database successfully
+2022-12-24/14:14:42		Opened training database successfully
+2022-12-24/14:14:42		Tables created successfully!!
+2022-12-24/14:14:42		training database closed successfully!!!
+2022-12-24/14:14:42		Opened training database successfully
+2022-12-24/14:15:22		Opened training database successfully
+2022-12-24/14:15:22		Tables created successfully!!
+2022-12-24/14:15:22		training database closed successfully!!!
+2022-12-24/14:15:22		Opened training database successfully
+2022-12-24/14:16:47		Opened training database successfully
+2022-12-24/14:16:47		Tables created successfully!!
+2022-12-24/14:16:47		training database closed successfully!!!
+2022-12-24/14:16:47		Opened training database successfully
+2022-12-24/14:18:41		Opened training database successfully
+2022-12-24/14:18:41		Tables created successfully!!
+2022-12-24/14:18:41		training database closed successfully!!!
+2022-12-24/14:18:41		Opened training database successfully
+2022-12-24/14:20:26		Opened training database successfully
+2022-12-24/14:20:26		Tables created successfully!!
+2022-12-24/14:20:26		training database closed successfully!!!
+2022-12-24/14:20:26		Opened training database successfully
+2022-12-24/14:20:26		Error while inserting data in Good_data table table Good_data has 20 columns but 1 values were supplied
+2022-12-24/14:24:30		Opened training database successfully
+2022-12-24/14:24:30		Tables created successfully!!
+2022-12-24/14:24:30		training database closed successfully!!!
+2022-12-24/14:24:30		Opened training database successfully
+2022-12-24/14:28:07		Opened training database successfully
+2022-12-24/14:28:07		Tables created successfully!!
+2022-12-24/14:28:07		training database closed successfully!!!
+2022-12-24/14:28:07		Opened training database successfully
+2022-12-24/14:31:28		Opened training database successfully
+2022-12-24/14:31:28		Tables created successfully!!
+2022-12-24/14:31:28		training database closed successfully!!!
+2022-12-24/14:31:28		Opened training database successfully
+2022-12-24/14:31:28		Error while inserting data in Good_data table not all arguments converted during string formatting
+2022-12-27/12:09:29		Opened training database successfully
+2022-12-27/12:09:29		Tables created successfully!!
+2022-12-27/12:09:29		training database closed successfully!!!
+2022-12-27/12:09:30		Opened training database successfully
+2022-12-27/12:11:55		Opened training database successfully
+2022-12-27/12:11:55		Tables created successfully!!
+2022-12-27/12:11:55		training database closed successfully!!!
+2022-12-27/12:11:55		Opened training database successfully
+2022-12-27/12:15:54		Opened training database successfully
+2022-12-27/12:15:54		Error while creating table table Good_data already exists
+2022-12-27/12:16:22		Opened training database successfully
+2022-12-27/12:16:22		Tables created successfully!!
+2022-12-27/12:16:22		training database closed successfully!!!
+2022-12-27/12:16:22		Opened training database successfully
+2022-12-27/12:20:15		Opened training database successfully
+2022-12-27/12:20:15		Tables created successfully!!
+2022-12-27/12:20:15		training database closed successfully!!!
+2022-12-27/12:20:15		Opened training database successfully
+2022-12-27/12:24:12		Opened training database successfully
+2022-12-27/12:24:12		Tables created successfully!!
+2022-12-27/12:24:12		training database closed successfully!!!
+2022-12-27/12:24:12		Opened training database successfully
+2022-12-27/12:29:59		Opened training database successfully
+2022-12-27/12:29:59		Tables created successfully!!
+2022-12-27/12:29:59		training database closed successfully!!!
+2022-12-27/12:29:59		Opened training database successfully
+2022-12-27/12:29:59		Error while inserting data in Good_data table unrecognized token: "{"
+2022-12-27/12:31:44		Opened training database successfully
+2022-12-27/12:31:44		Tables created successfully!!
+2022-12-27/12:31:44		training database closed successfully!!!
+2022-12-27/12:31:44		Opened training database successfully
+2022-12-27/12:33:14		Opened training database successfully
+2022-12-27/12:33:14		Tables created successfully!!
+2022-12-27/12:33:14		training database closed successfully!!!
+2022-12-27/12:33:14		Opened training database successfully
+2022-12-27/12:36:32		Opened training database successfully
+2022-12-27/12:36:32		Tables created successfully!!
+2022-12-27/12:36:32		training database closed successfully!!!
+2022-12-27/12:36:32		Opened training database successfully
+2022-12-27/12:38:29		Opened training database successfully
+2022-12-27/12:38:29		Tables created successfully!!
+2022-12-27/12:38:29		training database closed successfully!!!
+2022-12-27/12:38:29		Opened training database successfully
+2022-12-27/12:39:23		Opened training database successfully
+2022-12-27/12:39:23		Tables created successfully!!
+2022-12-27/12:39:23		training database closed successfully!!!
+2022-12-27/12:39:23		Opened training database successfully
+2022-12-27/12:39:24		Data successfully inserted into Good_data table
+2022-12-27/12:43:44		Opened training database successfully
+2022-12-27/12:43:44		Tables created successfully!!
+2022-12-27/12:43:44		training database closed successfully!!!
+2022-12-27/12:43:44		Opened training database successfully
+2022-12-27/12:43:44		Error while inserting data in Good_data table 'insert_data'
+2022-12-27/12:44:48		Opened training database successfully
+2022-12-27/12:44:48		Tables created successfully!!
+2022-12-27/12:44:48		training database closed successfully!!!
+2022-12-27/12:44:48		Opened training database successfully
+2022-12-27/12:44:48		Error while inserting data in Good_data table 'insert_data'
+2022-12-27/12:45:46		Opened training database successfully
+2022-12-27/12:45:46		Tables created successfully!!
+2022-12-27/12:45:46		training database closed successfully!!!
+2022-12-27/12:45:46		Opened training database successfully
+2022-12-27/12:45:47		Data successfully inserted into Good_data table
+2022-12-27/12:50:34		Opened training database successfully
+2022-12-27/12:51:42		Opened training database successfully
+2022-12-27/12:51:42		Tables created successfully!!
+2022-12-27/12:51:42		training database closed successfully!!!
+2022-12-27/12:51:42		Opened training database successfully
+2022-12-27/12:51:42		Data successfully inserted into Good_data table
+2022-12-27/12:51:53		Opened training database successfully
+2022-12-27/12:51:53		Data successfully inserted into Good_data table
+2022-12-27/12:52:36		Opened training database successfully
+2022-12-27/12:52:36		Error while inserting data in Good_data table no such table: Good_data
+2022-12-27/12:53:51		Opened training database successfully
+2022-12-27/12:53:51		Tables created successfully!!
+2022-12-27/12:53:51		training database closed successfully!!!
+2022-12-27/12:53:51		Opened training database successfully
+2022-12-27/12:53:52		Data successfully inserted into Good_data table
+2022-12-27/12:55:32		Opened training database successfully
+2022-12-27/12:55:32		Error while creating table table Good_data already exists
+2022-12-27/12:55:39		Opened training database successfully
+2022-12-27/12:55:39		Data successfully inserted into Good_data table
+2022-12-27/12:57:35		Opened training database successfully
+2022-12-27/12:57:35		Error while creating table table Good_data already exists
+2022-12-27/12:58:27		Opened training database successfully
+2022-12-27/12:58:27		Error while creating table table Good_data already exists
+2022-12-27/12:59:16		Opened training database successfully
+2022-12-27/12:59:16		Data successfully inserted into Good_data table
+2022-12-27/12:59:46		Opened training database successfully
+2022-12-27/12:59:46		Data successfully loaded from Good_data table
+2022-12-27/13:00:14		Opened training database successfully
+2022-12-27/13:00:14		Data successfully loaded from Good_data table
+2022-12-27/13:01:42		Opened training database successfully
+2022-12-27/13:01:42		Tables created successfully!!
+2022-12-27/13:01:42		training database closed successfully!!!
+2022-12-27/13:01:42		Opened training database successfully
+2022-12-27/13:01:42		Data successfully inserted into Good_data table
+2022-12-27/13:01:43		Opened training database successfully
+2022-12-27/13:01:43		Data successfully loaded from Good_data table
+2022-12-27/13:05:41		Opened training database successfully
+2022-12-27/13:05:41		Good_data Table droped successfully!!!
+2022-12-27/13:05:45		Opened training database successfully
+2022-12-27/13:05:45		Tables created successfully!!
+2022-12-27/13:05:45		training database closed successfully!!!
+2022-12-27/13:05:45		Opened training database successfully
+2022-12-27/13:05:46		Data successfully inserted into Good_data table
+2022-12-27/13:05:47		Opened training database successfully
+2022-12-27/13:05:47		Data successfully loaded from Good_data table
+2022-12-27/13:05:48		Opened training database successfully
+2022-12-27/13:05:48		Good_data Table droped successfully!!!
+2022-12-27/13:07:18		Opened training database successfully
+2022-12-27/13:07:18		Tables created successfully!!
+2022-12-27/13:07:18		training database closed successfully!!!
+2022-12-27/13:07:18		Data successfully inserted into Good_data table
+2022-12-27/13:08:23		Opened training database successfully
+2022-12-27/13:08:23		Data successfully loaded from Good_data table
+2022-12-27/13:08:25		Opened training database successfully
+2022-12-27/13:08:25		Good_data Table droped successfully!!!
+2022-12-27/13:08:31		Opened training database successfully
+2022-12-27/13:08:31		Tables created successfully!!
+2022-12-27/13:08:31		training database closed successfully!!!
+2022-12-27/13:08:31		Data successfully inserted into Good_data table
+2022-12-27/13:08:51		Opened training database successfully
+2022-12-27/13:08:51		Good_data Table droped successfully!!!
+2022-12-27/13:08:54		Opened training database successfully
+2022-12-27/13:08:54		Tables created successfully!!
+2022-12-27/13:08:54		training database closed successfully!!!
+2022-12-27/13:08:54		Data successfully inserted into Good_data table
+2022-12-27/13:09:20		Data successfully inserted into Good_data table
+2022-12-27/13:11:40		Opened training database successfully
+2022-12-27/13:11:40		Good_data Table droped successfully!!!
+2022-12-27/13:11:45		Opened training database successfully
+2022-12-27/13:11:45		Tables created successfully!!
+2022-12-27/13:11:45		training database closed successfully!!!
+2022-12-27/13:11:46		Data successfully inserted into Good_data table
+2022-12-27/13:12:27		Data successfully inserted into Good_data table
+2022-12-27/13:13:05		Data successfully inserted into Good_data table
+2022-12-27/13:13:17		Data successfully inserted into Good_data table
+2022-12-27/13:13:35		Opened training database successfully
+2022-12-27/13:13:35		Good_data Table droped successfully!!!
+2022-12-27/13:14:25		Error while inserting data in Good_data table no such table: Good_data
+2022-12-27/13:14:37		Opened training database successfully
+2022-12-27/13:14:37		Tables created successfully!!
+2022-12-27/13:14:37		training database closed successfully!!!
+2022-12-27/13:14:38		Data successfully inserted into Good_data table
+2022-12-27/13:15:46		Data successfully inserted into Good_data table
+2022-12-27/13:16:51		Data successfully inserted into Good_data table
+2022-12-27/13:19:01		Opened training database successfully
+2022-12-27/13:19:01		Error while creating table table Good_data already exists
+2022-12-27/13:19:09		Opened training database successfully
+2022-12-27/13:19:09		Good_data Table droped successfully!!!
+2022-12-27/13:19:15		Opened training database successfully
+2022-12-27/13:19:15		Tables created successfully!!
+2022-12-27/13:19:15		training database closed successfully!!!
+2022-12-27/13:19:16		Data successfully inserted into Good_data table
+2022-12-27/13:19:33		Data successfully inserted into Good_data table
+2022-12-27/13:19:50		Data successfully inserted into Good_data table
+2022-12-27/13:20:35		Opened training database successfully
+2022-12-27/13:20:35		Good_data Table droped successfully!!!
+2022-12-27/13:20:42		Opened training database successfully
+2022-12-27/13:20:42		Tables created successfully!!
+2022-12-27/13:20:42		training database closed successfully!!!
+2022-12-27/13:20:43		Data successfully inserted into Good_data table
+2022-12-27/13:21:08		Opened training database successfully
+2022-12-27/13:21:08		Good_data Table droped successfully!!!
+2022-12-27/13:21:14		Opened training database successfully
+2022-12-27/13:21:14		Tables created successfully!!
+2022-12-27/13:21:14		training database closed successfully!!!
+2022-12-27/13:21:15		Data successfully inserted into Good_data table
+2022-12-27/13:21:43		Error while inserting data in Good_data table near "200000": syntax error
+2022-12-27/13:22:15		Data successfully inserted into Good_data table
+2022-12-27/13:22:32		Error while inserting data in Good_data table near "200001": syntax error
+2022-12-27/13:22:54		Data successfully inserted into Good_data table
+2022-12-27/13:23:19		Data successfully inserted into Good_data table
+2022-12-27/13:23:38		Opened training database successfully
+2022-12-27/13:23:38		Data successfully loaded from Good_data table
+2022-12-27/13:25:11		Data successfully inserted into Good_data table
+2022-12-27/13:25:22		Data successfully inserted into Good_data table
+2022-12-27/13:28:38		Opened training database successfully
+2022-12-27/13:28:38		Data successfully loaded from Good_data table
+2022-12-27/13:28:44		Opened training database successfully
+2022-12-27/13:28:44		Data successfully loaded from Good_data table
+2022-12-27/13:34:06		Opened training database successfully
+2022-12-27/13:34:49		Opened training database successfully
+2022-12-27/14:24:03		Opened training database successfully
+2022-12-27/14:24:18		Opened training database successfully
+2022-12-27/14:27:50		Opened training database successfully
+2022-12-27/14:28:38		Opened training database successfully
+2022-12-27/14:28:43		Opened training database successfully
+2022-12-27/14:28:43		Data successfully loaded from Good_data table
+2022-12-27/14:29:06		Opened training database successfully
+2022-12-27/14:29:06		Good_data Table droped successfully!!!
+2022-12-27/14:29:19		Opened training database successfully
+2022-12-27/14:29:19		Tables created successfully!!
+2022-12-27/14:29:19		training database closed successfully!!!
+2022-12-27/14:29:20		Opened training database successfully
+2022-12-27/14:29:33		Opened training database successfully
+2022-12-27/14:29:33		Data successfully loaded from Good_data table
+2022-12-27/14:33:55		Opened training database successfully
+2022-12-27/14:33:55		Error while creating table table Good_data already exists
+2022-12-27/14:35:19		Opened training database successfully
+2022-12-27/14:35:19		Tables created successfully!!
+2022-12-27/14:35:19		training database closed successfully!!!
+2022-12-27/14:35:19		Opened training database successfully
+2022-12-27/14:35:47		Data successfully inserted into Good_data table
+2022-12-27/14:35:47		Opened training database successfully
+2022-12-27/14:35:47		Data successfully loaded from Good_data table
+2022-12-27/15:47:54		Opened training database successfully
+2022-12-27/15:47:54		Error while creating table table Good_data already exists
+2022-12-27/15:49:18		Opened training database successfully
+2022-12-27/15:49:18		Tables created successfully!!
+2022-12-27/15:49:18		training database closed successfully!!!
+2022-12-27/15:49:18		Opened training database successfully
+2022-12-27/15:49:41		Data successfully inserted into Good_data table
+2022-12-27/15:51:02		Opened training database successfully
+2022-12-27/15:51:02		Tables created successfully!!
+2022-12-27/15:51:02		training database closed successfully!!!
+2022-12-27/15:51:02		Opened training database successfully
+2022-12-27/15:51:26		Data successfully inserted into Good_data table
+2022-12-27/15:51:26		Opened training database successfully
+2022-12-27/15:51:26		Data successfully loaded from Good_data table
+2023-01-02/15:56:17		Opened training database successfully
+2023-01-02/15:56:17		Error while creating table table Good_data already exists
+2023-01-02/16:00:21		Opened training database successfully
+2023-01-02/16:00:21		Tables created successfully!!
+2023-01-02/16:00:21		training database closed successfully!!!
+2023-01-02/16:00:22		Opened training database successfully
+2023-01-02/16:01:03		Data successfully inserted into Good_data table
+2023-01-02/16:01:05		Opened training database successfully
+2023-01-02/16:01:05		Data successfully loaded from Good_data table
+2023-01-02/16:20:53		Opened training database successfully
+2023-01-02/16:20:53		Tables created successfully!!
+2023-01-02/16:20:53		training database closed successfully!!!
+2023-01-02/16:20:53		Opened training database successfully
+2023-01-02/16:21:11		Opened training database successfully
+2023-01-02/16:21:11		Error while creating table table Good_data already exists
+2023-01-02/16:21:25		Data successfully inserted into Good_data table
+2023-01-02/16:21:26		Opened training database successfully
+2023-01-02/16:21:26		Data successfully loaded from Good_data table
+2023-01-02/16:22:31		Opened training database successfully
+2023-01-02/16:22:31		Tables created successfully!!
+2023-01-02/16:22:31		training database closed successfully!!!
+2023-01-02/16:22:31		Opened training database successfully
+2023-01-02/16:22:52		Data successfully inserted into Good_data table
+2023-01-02/16:22:52		Opened training database successfully
+2023-01-02/16:22:52		Data successfully loaded from Good_data table
+2023-01-02/16:25:28		Opened training database successfully
+2023-01-02/16:25:28		Tables created successfully!!
+2023-01-02/16:25:28		training database closed successfully!!!
+2023-01-02/16:25:28		Opened training database successfully
+2023-01-02/16:25:50		Data successfully inserted into Good_data table
+2023-01-02/16:25:50		Opened training database successfully
+2023-01-02/16:25:50		Data successfully loaded from Good_data table
+2023-01-02/16:27:54		Opened training database successfully
+2023-01-02/16:27:54		Tables created successfully!!
+2023-01-02/16:27:54		training database closed successfully!!!
+2023-01-02/16:27:54		Opened training database successfully
+2023-01-02/16:28:16		Data successfully inserted into Good_data table
+2023-01-02/16:28:16		Opened training database successfully
+2023-01-02/16:28:16		Data successfully loaded from Good_data table
+2023-01-02/16:30:08		Opened training database successfully
+2023-01-02/16:30:08		Tables created successfully!!
+2023-01-02/16:30:08		training database closed successfully!!!
+2023-01-02/16:30:08		Opened training database successfully
+2023-01-02/16:30:31		Data successfully inserted into Good_data table
+2023-01-02/16:30:32		Opened training database successfully
+2023-01-02/16:30:32		Data successfully loaded from Good_data table
+2023-01-02/16:32:39		Opened training database successfully
+2023-01-02/16:32:39		Tables created successfully!!
+2023-01-02/16:32:39		training database closed successfully!!!
+2023-01-02/16:32:39		Opened training database successfully
+2023-01-02/16:32:59		Data successfully inserted into Good_data table
+2023-01-02/16:32:59		Opened training database successfully
+2023-01-02/16:33:00		Data successfully loaded from Good_data table
+2023-01-02/16:34:51		Opened training database successfully
+2023-01-02/16:34:51		Tables created successfully!!
+2023-01-02/16:34:51		training database closed successfully!!!
+2023-01-02/16:34:51		Opened training database successfully
+2023-01-02/16:35:16		Data successfully inserted into Good_data table
+2023-01-02/16:35:17		Opened training database successfully
+2023-01-02/16:35:17		Data successfully loaded from Good_data table
+2023-01-02/16:35:56		Opened training database successfully
+2023-01-02/16:35:56		Tables created successfully!!
+2023-01-02/16:35:56		training database closed successfully!!!
+2023-01-02/16:35:56		Opened training database successfully
+2023-01-02/16:36:19		Data successfully inserted into Good_data table
+2023-01-02/16:36:20		Opened training database successfully
+2023-01-02/16:36:20		Data successfully loaded from Good_data table
+2023-01-02/16:37:31		Opened training database successfully
+2023-01-02/16:37:31		Tables created successfully!!
+2023-01-02/16:37:31		training database closed successfully!!!
+2023-01-02/16:37:31		Opened training database successfully
+2023-01-02/16:37:52		Data successfully inserted into Good_data table
+2023-01-02/16:37:53		Opened training database successfully
+2023-01-02/16:37:53		Data successfully loaded from Good_data table
+2023-01-02/16:39:04		Opened training database successfully
+2023-01-02/16:39:04		Tables created successfully!!
+2023-01-02/16:39:04		training database closed successfully!!!
+2023-01-02/16:39:04		Opened training database successfully
+2023-01-02/16:39:28		Data successfully inserted into Good_data table
+2023-01-02/16:39:28		Opened training database successfully
+2023-01-02/16:39:28		Data successfully loaded from Good_data table
+2023-01-02/16:40:25		Opened training database successfully
+2023-01-02/16:40:25		Tables created successfully!!
+2023-01-02/16:40:25		training database closed successfully!!!
+2023-01-02/16:40:25		Opened training database successfully
+2023-01-02/16:40:47		Data successfully inserted into Good_data table
+2023-01-02/16:40:47		Opened training database successfully
+2023-01-02/16:40:47		Data successfully loaded from Good_data table
+2023-01-02/16:41:36		Opened training database successfully
+2023-01-02/16:41:36		Tables created successfully!!
+2023-01-02/16:41:36		training database closed successfully!!!
+2023-01-02/16:41:36		Opened training database successfully
+2023-01-02/16:41:56		Data successfully inserted into Good_data table
+2023-01-02/16:41:56		Opened training database successfully
+2023-01-02/16:41:56		Data successfully loaded from Good_data table
+2023-01-02/16:43:52		Opened training database successfully
+2023-01-02/16:43:52		Tables created successfully!!
+2023-01-02/16:43:52		training database closed successfully!!!
+2023-01-02/16:43:52		Opened training database successfully
+2023-01-02/16:44:12		Data successfully inserted into Good_data table
+2023-01-02/16:44:12		Opened training database successfully
+2023-01-02/16:44:12		Data successfully loaded from Good_data table
+2023-01-02/16:45:13		Opened training database successfully
+2023-01-02/16:45:13		Tables created successfully!!
+2023-01-02/16:45:13		training database closed successfully!!!
+2023-01-02/16:45:13		Opened training database successfully
+2023-01-02/16:45:34		Data successfully inserted into Good_data table
+2023-01-02/16:45:34		Opened training database successfully
+2023-01-02/16:45:34		Data successfully loaded from Good_data table
+2023-01-02/16:46:23		Opened training database successfully
+2023-01-02/16:46:23		Tables created successfully!!
+2023-01-02/16:46:23		training database closed successfully!!!
+2023-01-02/16:46:23		Opened training database successfully
+2023-01-02/16:46:43		Data successfully inserted into Good_data table
+2023-01-02/16:46:43		Opened training database successfully
+2023-01-02/16:46:43		Data successfully loaded from Good_data table
+2023-01-02/16:47:58		Opened training database successfully
+2023-01-02/16:47:58		Tables created successfully!!
+2023-01-02/16:47:58		training database closed successfully!!!
+2023-01-02/16:47:58		Opened training database successfully
+2023-01-02/16:48:22		Data successfully inserted into Good_data table
+2023-01-02/16:48:23		Opened training database successfully
+2023-01-02/16:48:24		Data successfully loaded from Good_data table
+2023-01-02/16:53:58		Opened training database successfully
+2023-01-02/16:53:58		Tables created successfully!!
+2023-01-02/16:53:58		training database closed successfully!!!
+2023-01-02/16:53:58		Opened training database successfully
+2023-01-02/16:54:22		Data successfully inserted into Good_data table
+2023-01-02/16:54:22		Opened training database successfully
+2023-01-02/16:54:22		Data successfully loaded from Good_data table
+2023-01-03/12:24:58		Opened training database successfully
+2023-01-03/12:24:58		Tables created successfully!!
+2023-01-03/12:24:58		training database closed successfully!!!
+2023-01-03/12:24:58		Opened training database successfully
+2023-01-03/12:25:29		Data successfully inserted into Good_data table
+2023-01-03/12:25:29		Opened training database successfully
+2023-01-03/12:25:29		Data successfully loaded from Good_data table
+2023-01-03/12:26:30		Opened training database successfully
+2023-01-03/12:26:30		Error while creating table table Good_data already exists
+2023-01-03/12:27:07		Opened training database successfully
+2023-01-03/12:27:07		Tables created successfully!!
+2023-01-03/12:27:07		training database closed successfully!!!
+2023-01-03/12:27:07		Opened training database successfully
+2023-01-03/12:27:36		Data successfully inserted into Good_data table
+2023-01-03/12:27:36		Opened training database successfully
+2023-01-03/12:27:36		Data successfully loaded from Good_data table
+2023-01-03/14:40:04		Opened training database successfully
+2023-01-03/14:40:04		Error while creating table table Good_data already exists
+2023-01-03/14:40:35		Opened training database successfully
+2023-01-03/14:40:35		Tables created successfully!!
+2023-01-03/14:40:35		training database closed successfully!!!
+2023-01-03/14:40:35		Opened training database successfully
+2023-01-03/14:40:56		Data successfully inserted into Good_data table
+2023-01-03/14:40:57		Opened training database successfully
+2023-01-03/14:40:57		Data successfully loaded from Good_data table
+2023-01-04/12:01:36		Opened training database successfully
+2023-01-04/12:01:36		Tables created successfully!!
+2023-01-04/12:01:36		training database closed successfully!!!
+2023-01-04/12:01:36		Opened training database successfully
+2023-01-04/12:02:07		Data successfully inserted into Good_data table
+2023-01-04/12:02:07		Opened training database successfully
+2023-01-04/12:02:07		Data successfully loaded from Good_data table
+2023-01-04/16:39:51		Opened training database successfully
+2023-01-04/16:39:51		Tables created successfully!!
+2023-01-04/16:39:51		training database closed successfully!!!
+2023-01-04/16:39:51		Opened training database successfully
+2023-01-04/16:40:34		Data successfully inserted into Good_data table
+2023-01-04/16:40:34		Opened training database successfully
+2023-01-04/16:40:34		Data successfully loaded from Good_data table
+2023-01-04/17:11:44		Opened training database successfully
+2023-01-04/17:11:44		Tables created successfully!!
+2023-01-04/17:11:44		training database closed successfully!!!
+2023-01-04/17:11:44		Opened training database successfully
+2023-01-04/17:12:29		Data successfully inserted into Good_data table
+2023-01-04/17:12:30		Opened training database successfully
+2023-01-04/17:12:30		Data successfully loaded from Good_data table
+2023-01-04/17:13:11		Opened training database successfully
+2023-01-04/17:13:11		Tables created successfully!!
+2023-01-04/17:13:11		training database closed successfully!!!
+2023-01-04/17:13:11		Opened training database successfully
+2023-01-04/17:13:34		Data successfully inserted into Good_data table
+2023-01-04/17:13:34		Opened training database successfully
+2023-01-04/17:13:34		Data successfully loaded from Good_data table
+2023-01-04/17:44:22		Opened training database successfully
+2023-01-04/17:44:22		Tables created successfully!!
+2023-01-04/17:44:22		training database closed successfully!!!
+2023-01-04/17:44:22		Opened training database successfully
+2023-01-04/17:44:43		Data successfully inserted into Good_data table
+2023-01-04/17:44:44		Opened training database successfully
+2023-01-04/17:44:44		Data successfully loaded from Good_data table
+2023-01-04/18:18:43		Opened training database successfully
+2023-01-04/18:18:43		Tables created successfully!!
+2023-01-04/18:18:43		training database closed successfully!!!
+2023-01-04/18:18:43		Opened training database successfully
+2023-01-04/18:19:22		Data successfully inserted into Good_data table
+2023-01-04/18:19:22		Opened training database successfully
+2023-01-04/18:19:23		Data successfully loaded from Good_data table
+2023-01-04/18:23:56		Opened training database successfully
+2023-01-04/18:23:57		Tables created successfully!!
+2023-01-04/18:23:57		training database closed successfully!!!
+2023-01-04/18:23:57		Opened training database successfully
+2023-01-04/18:24:20		Data successfully inserted into Good_data table
+2023-01-04/18:24:20		Opened training database successfully
+2023-01-04/18:24:20		Data successfully loaded from Good_data table
+2023-01-04/18:32:30		Opened training database successfully
+2023-01-04/18:32:30		Tables created successfully!!
+2023-01-04/18:32:30		training database closed successfully!!!
+2023-01-04/18:32:30		Opened training database successfully
+2023-01-04/18:33:01		Data successfully inserted into Good_data table
+2023-01-04/18:33:02		Opened training database successfully
+2023-01-04/18:33:02		Data successfully loaded from Good_data table
+2023-01-04/18:35:49		Opened training database successfully
+2023-01-04/18:35:49		Tables created successfully!!
+2023-01-04/18:35:49		training database closed successfully!!!
+2023-01-04/18:35:49		Opened training database successfully
+2023-01-04/18:36:12		Data successfully inserted into Good_data table
+2023-01-04/18:36:13		Opened training database successfully
+2023-01-04/18:36:14		Data successfully loaded from Good_data table
+2023-01-04/18:37:25		Opened training database successfully
+2023-01-04/18:37:25		Tables created successfully!!
+2023-01-04/18:37:25		training database closed successfully!!!
+2023-01-04/18:37:25		Opened training database successfully
+2023-01-04/18:37:52		Data successfully inserted into Good_data table
+2023-01-04/18:37:52		Opened training database successfully
+2023-01-04/18:37:52		Data successfully loaded from Good_data table
+2023-01-04/18:38:48		Opened training database successfully
+2023-01-04/18:38:48		Tables created successfully!!
+2023-01-04/18:38:48		training database closed successfully!!!
+2023-01-04/18:38:48		Opened training database successfully
+2023-01-04/18:39:19		Data successfully inserted into Good_data table
+2023-01-04/18:39:20		Opened training database successfully
+2023-01-04/18:39:20		Data successfully loaded from Good_data table
+2023-01-04/18:41:04		Opened training database successfully
+2023-01-04/18:41:04		Tables created successfully!!
+2023-01-04/18:41:04		training database closed successfully!!!
+2023-01-04/18:41:04		Opened training database successfully
+2023-01-04/18:41:42		Data successfully inserted into Good_data table
+2023-01-04/18:41:44		Opened training database successfully
+2023-01-04/18:41:44		Data successfully loaded from Good_data table
+2023-01-04/18:43:00		Opened training database successfully
+2023-01-04/18:43:00		Tables created successfully!!
+2023-01-04/18:43:00		training database closed successfully!!!
+2023-01-04/18:43:00		Opened training database successfully
+2023-01-04/18:43:52		Data successfully inserted into Good_data table
+2023-01-04/18:43:52		Opened training database successfully
+2023-01-04/18:43:53		Data successfully loaded from Good_data table
+2023-01-04/18:46:00		Opened training database successfully
+2023-01-04/18:46:00		Tables created successfully!!
+2023-01-04/18:46:00		training database closed successfully!!!
+2023-01-04/18:46:00		Opened training database successfully
+2023-01-04/18:46:36		Data successfully inserted into Good_data table
+2023-01-04/18:46:41		Opened training database successfully
+2023-01-04/18:46:41		Data successfully loaded from Good_data table
+2023-01-04/18:49:07		Opened training database successfully
+2023-01-04/18:49:07		Tables created successfully!!
+2023-01-04/18:49:07		training database closed successfully!!!
+2023-01-04/18:49:07		Opened training database successfully
+2023-01-04/18:49:54		Data successfully inserted into Good_data table
+2023-01-04/18:49:54		Opened training database successfully
+2023-01-04/18:49:56		Data successfully loaded from Good_data table
+2023-01-04/19:08:26		Opened training database successfully
+2023-01-04/19:08:26		Tables created successfully!!
+2023-01-04/19:08:26		training database closed successfully!!!
+2023-01-04/19:08:26		Opened training database successfully
+2023-01-04/19:08:53		Data successfully inserted into Good_data table
+2023-01-04/19:08:53		Opened training database successfully
+2023-01-04/19:08:54		Data successfully loaded from Good_data table

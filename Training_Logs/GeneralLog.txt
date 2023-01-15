@@ -1,0 +1,435 @@
+2022-12-19/16:38:50		Good and Bad directory has been successfully created
+2022-12-19/16:44:23		Good and Bad directory has been successfully created
+2022-12-19/16:54:06		Good and Bad directory has been successfully created
+2022-12-19/16:56:38		Good and Bad directory has been successfully created
+2022-12-19/16:57:58		Good and Bad directory has been successfully created
+2022-12-19/16:58:53		Good and Bad directory has been successfully created
+2022-12-19/18:54:57		Good and Bad directory has been successfully created
+2022-12-19/18:56:07		Good and Bad directory has been successfully created
+2022-12-19/19:06:57		Good and Bad directory has been successfully created
+2022-12-19/19:16:07		Good and Bad directory has been successfully created
+2022-12-19/19:16:32		Good and Bad directory has been successfully created
+2022-12-19/19:18:22		Good and Bad directory has been successfully created
+2022-12-19/19:18:52		Good and Bad directory has been successfully created
+2022-12-20/12:21:44		Good and Bad directory has been successfully created
+2022-12-20/12:21:44		Good Raw directory deleted successfully!!!
+2022-12-20/12:23:14		Good and Bad directory has been successfully created
+2022-12-20/12:23:15		Good Raw directory deleted successfully!!!
+2022-12-20/12:23:43		Good and Bad directory has been successfully created
+2022-12-20/12:23:43		Good Raw directory deleted successfully!!!
+2022-12-20/12:25:18		Good and Bad directory has been successfully created
+2022-12-20/12:28:21		Good and Bad directory has been successfully created
+2022-12-20/12:29:18		Good and Bad directory has been successfully created
+2022-12-20/12:29:18		Good Raw directory deleted successfully!!!
+2022-12-20/12:29:18		Bad Raw Directory deleted successfully!!!
+2022-12-20/12:29:56		Good and Bad directory has been successfully created
+2022-12-20/12:29:56		Good Raw directory deleted successfully!!!
+2022-12-20/12:29:56		Bad Raw Directory deleted successfully!!!
+2022-12-20/12:40:20		Good and Bad directory has been successfully created
+2022-12-20/12:55:23		Good and Bad directory has been successfully created
+2022-12-20/12:55:23		Good Raw directory deleted successfully!!!
+2022-12-20/12:55:23		Error while transfering file bad raw to bad archive folder log() missing 1 required positional argument: 'log_message'
+2022-12-20/12:57:09		Good and Bad directory has been successfully created
+2022-12-20/12:57:09		Good Raw directory deleted successfully!!!
+2022-12-20/12:57:09		Error while transfering file bad raw to bad archive folder log() missing 1 required positional argument: 'log_message'
+2022-12-20/13:01:09		Good and Bad directory has been successfully created
+2022-12-20/13:01:09		Good Raw directory deleted successfully!!!
+2022-12-20/13:01:09		Error while transfering file bad raw to bad archive folder log() missing 1 required positional argument: 'log_message'
+2022-12-20/13:01:57		Good and Bad directory has been successfully created
+2022-12-20/13:01:57		Good Raw directory deleted successfully!!!
+2022-12-20/13:01:57		Bad Raw data successfully transfer to bad archive folder
+2022-12-20/13:01:57		Bad Raw Directory deleted successfully!!!
+2022-12-20/13:04:06		Good and Bad directory has been successfully created
+2022-12-20/13:04:06		Good Raw directory deleted successfully!!!
+2022-12-20/13:04:06		Bad Raw data successfully transfer to bad archive folder
+2022-12-20/13:04:06		Bad Raw Directory deleted successfully!!!
+2022-12-20/13:06:26		Good and Bad directory has been successfully created
+2022-12-20/13:06:27		Good Raw directory deleted successfully!!!
+2022-12-20/13:07:31		Good and Bad directory has been successfully created
+2022-12-20/13:09:20		Good and Bad directory has been successfully created
+2022-12-20/13:13:11		Good and Bad directory has been successfully created
+2022-12-20/13:14:06		Good and Bad directory has been successfully created
+2022-12-20/13:14:06		Good Raw directory deleted successfully!!!
+2022-12-20/13:14:06		Bad Raw data successfully transfer to bad archive folder
+2022-12-20/13:14:06		Bad Raw Directory deleted successfully!!!
+2022-12-20/13:14:29		Good and Bad directory has been successfully created
+2022-12-20/13:14:29		Good Raw directory deleted successfully!!!
+2022-12-20/13:14:29		Error while creating directory Destination path 'TrainingArchiveBadData/Bad_data\mydata.csv' already exists
+2022-12-20/13:22:30		Good and Bad directory has been successfully created
+2022-12-20/13:22:30		Good Raw directory deleted successfully!!!
+2022-12-20/13:22:30		Error while creating directory [Errno 2] No such file or directory: 'Training_Raw_files_validated/Bad_Raw/mydata.csv_2022-12-20_132230'
+2022-12-20/13:28:09		Good and Bad directory has been successfully created
+2022-12-20/13:28:09		Good Raw directory deleted successfully!!!
+2022-12-20/13:28:09		Bad Raw data successfully transfer to bad archive folder
+2022-12-20/13:28:09		Bad Raw Directory deleted successfully!!!
+2022-12-20/13:28:28		Good and Bad directory has been successfully created
+2022-12-20/13:28:28		Good Raw directory deleted successfully!!!
+2022-12-20/13:28:28		Bad Raw data successfully transfer to bad archive folder
+2022-12-20/13:28:28		Bad Raw Directory deleted successfully!!!
+2022-12-20/13:32:08		Good and Bad directory has been successfully created
+2022-12-20/13:32:08		Good Raw directory deleted successfully!!!
+2022-12-20/13:32:08		Bad Raw data successfully transfer to bad archive folder
+2022-12-20/13:32:08		Bad Raw Directory deleted successfully!!!
+2022-12-20/14:45:22		Good and Bad directory has been successfully created
+2022-12-20/14:45:22		Good Raw directory deleted successfully!!!
+2022-12-20/14:45:22		Bad Raw data successfully transfer to bad archive folder
+2022-12-20/14:45:22		Bad Raw Directory deleted successfully!!!
+2022-12-20/14:45:32		Good and Bad directory has been successfully created
+2022-12-20/14:45:32		Good Raw directory deleted successfully!!!
+2022-12-20/14:45:32		Bad Raw data successfully transfer to bad archive folder
+2022-12-20/14:45:32		Bad Raw Directory deleted successfully!!!
+2022-12-20/15:04:21		Good and Bad directory has been successfully created
+2022-12-20/15:04:21		Good Raw directory deleted successfully!!!
+2022-12-20/15:04:22		Bad Raw data successfully transfer to bad archive folder
+2022-12-20/15:04:22		Bad Raw Directory deleted successfully!!!
+2022-12-20/15:06:33		Good and Bad directory has been successfully created
+2022-12-20/15:06:33		Good Raw directory deleted successfully!!!
+2022-12-20/15:06:33		Bad Raw data successfully transfer to bad archive folder
+2022-12-20/15:06:33		Bad Raw Directory deleted successfully!!!
+2022-12-20/15:18:54		Good and Bad directory has been successfully created
+2022-12-20/15:18:54		Good Raw directory deleted successfully!!!
+2022-12-20/15:18:54		Bad Raw data successfully transfer to bad archive folder
+2022-12-20/15:18:54		Bad Raw Directory deleted successfully!!!
+2022-12-20/15:19:17		Good and Bad directory has been successfully created
+2022-12-20/15:19:17		Good Raw directory deleted successfully!!!
+2022-12-20/15:19:17		Bad Raw data successfully transfer to bad archive folder
+2022-12-20/15:19:17		Bad Raw Directory deleted successfully!!!
+2022-12-21/15:28:58		Good and Bad directory has been successfully created
+2022-12-21/15:28:59		Good Raw directory deleted successfully!!!
+2022-12-21/15:28:59		Bad Raw data successfully transfer to bad archive folder
+2022-12-21/15:28:59		Bad Raw Directory deleted successfully!!!
+2022-12-21/15:29:52		Good and Bad directory has been successfully created
+2022-12-21/15:29:52		Good Raw directory deleted successfully!!!
+2022-12-21/15:29:52		Bad Raw data successfully transfer to bad archive folder
+2022-12-21/15:29:52		Bad Raw Directory deleted successfully!!!
+2022-12-21/18:49:07		Good and Bad directory has been successfully created
+2022-12-21/18:52:57		Good and Bad directory has been successfully created
+2022-12-21/18:56:34		Good and Bad directory has been successfully created
+2022-12-21/18:58:06		Good and Bad directory has been successfully created
+2022-12-21/19:27:58		Good and Bad directory has been successfully created
+2022-12-21/19:33:55		Good and Bad directory has been successfully created
+2022-12-21/19:35:09		Good and Bad directory has been successfully created
+2022-12-21/19:38:01		Good and Bad directory has been successfully created
+2022-12-21/19:39:13		Good and Bad directory has been successfully created
+2022-12-21/19:41:50		Good and Bad directory has been successfully created
+2022-12-21/19:44:40		Good and Bad directory has been successfully created
+2022-12-21/19:47:03		Good and Bad directory has been successfully created
+2022-12-21/19:47:49		Good and Bad directory has been successfully created
+2022-12-23/12:30:55		Good and Bad directory has been successfully created
+2022-12-23/12:40:51		Good and Bad directory has been successfully created
+2022-12-23/12:41:34		Good and Bad directory has been successfully created
+2022-12-23/12:41:34		Good Raw directory deleted successfully!!!
+2022-12-23/12:41:34		Bad Raw data successfully transfer to bad archive folder
+2022-12-23/12:41:34		Bad Raw Directory deleted successfully!!!
+2022-12-23/12:51:56		Good and Bad directory has been successfully created
+2022-12-23/12:54:56		Good and Bad directory has been successfully created
+2022-12-23/12:55:57		Good and Bad directory has been successfully created
+2022-12-23/13:04:21		Good and Bad directory has been successfully created
+2022-12-23/13:13:46		Good and Bad directory has been successfully created
+2022-12-23/14:33:33		Good and Bad directory has been successfully created
+2022-12-23/14:43:27		Good and Bad directory has been successfully created
+2022-12-23/14:51:58		Good and Bad directory has been successfully created
+2022-12-24/12:24:23		Good and Bad directory has been successfully created
+2022-12-24/12:39:59		Good and Bad directory has been successfully created
+2022-12-24/12:41:15		Good and Bad directory has been successfully created
+2022-12-24/12:42:21		Good and Bad directory has been successfully created
+2022-12-24/12:42:58		Good and Bad directory has been successfully created
+2022-12-24/12:46:10		Good and Bad directory has been successfully created
+2022-12-24/12:46:55		Good and Bad directory has been successfully created
+2022-12-24/14:09:03		Good and Bad directory has been successfully created
+2022-12-24/14:09:57		Good and Bad directory has been successfully created
+2022-12-24/14:10:49		Good and Bad directory has been successfully created
+2022-12-24/14:12:07		Good and Bad directory has been successfully created
+2022-12-24/14:13:37		Good and Bad directory has been successfully created
+2022-12-24/14:14:41		Good and Bad directory has been successfully created
+2022-12-24/14:15:21		Good and Bad directory has been successfully created
+2022-12-24/14:16:47		Good and Bad directory has been successfully created
+2022-12-24/14:18:41		Good and Bad directory has been successfully created
+2022-12-24/14:20:26		Good and Bad directory has been successfully created
+2022-12-24/14:24:30		Good and Bad directory has been successfully created
+2022-12-24/14:28:07		Good and Bad directory has been successfully created
+2022-12-24/14:31:28		Good and Bad directory has been successfully created
+2022-12-27/12:09:29		Good and Bad directory has been successfully created
+2022-12-27/12:11:55		Good and Bad directory has been successfully created
+2022-12-27/12:15:54		Good and Bad directory has been successfully created
+2022-12-27/12:16:21		Good and Bad directory has been successfully created
+2022-12-27/12:20:15		Good and Bad directory has been successfully created
+2022-12-27/12:24:12		Good and Bad directory has been successfully created
+2022-12-27/12:29:59		Good and Bad directory has been successfully created
+2022-12-27/12:31:44		Good and Bad directory has been successfully created
+2022-12-27/12:33:14		Good and Bad directory has been successfully created
+2022-12-27/12:36:32		Good and Bad directory has been successfully created
+2022-12-27/12:38:29		Good and Bad directory has been successfully created
+2022-12-27/12:39:23		Good and Bad directory has been successfully created
+2022-12-27/12:43:44		Good and Bad directory has been successfully created
+2022-12-27/12:44:48		Good and Bad directory has been successfully created
+2022-12-27/12:45:46		Good and Bad directory has been successfully created
+2022-12-27/12:51:42		Good and Bad directory has been successfully created
+2022-12-27/14:33:55		Good and Bad directory has been successfully created
+2022-12-27/14:35:19		Good and Bad directory has been successfully created
+2022-12-27/15:47:54		Good and Bad directory has been successfully created
+2022-12-27/15:49:18		Good and Bad directory has been successfully created
+2022-12-27/15:49:41		Good Raw directory deleted successfully!!!
+2022-12-27/15:49:41		Bad Raw data successfully transfer to bad archive folder
+2022-12-27/15:49:41		Bad Raw Directory deleted successfully!!!
+2022-12-27/15:51:02		Good and Bad directory has been successfully created
+2022-12-27/15:51:26		Good Raw directory deleted successfully!!!
+2022-12-27/15:51:26		Bad Raw data successfully transfer to bad archive folder
+2022-12-27/15:51:26		Bad Raw Directory deleted successfully!!!
+2023-01-02/15:56:17		Good and Bad directory has been successfully created
+2023-01-02/16:00:21		Good and Bad directory has been successfully created
+2023-01-02/16:01:04		Good Raw directory deleted successfully!!!
+2023-01-02/16:01:04		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:01:04		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:20:53		Good and Bad directory has been successfully created
+2023-01-02/16:21:11		Good and Bad directory has been successfully created
+2023-01-02/16:21:25		Good Raw directory deleted successfully!!!
+2023-01-02/16:21:25		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:21:25		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:22:31		Good and Bad directory has been successfully created
+2023-01-02/16:22:52		Good Raw directory deleted successfully!!!
+2023-01-02/16:22:52		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:22:52		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:25:28		Good and Bad directory has been successfully created
+2023-01-02/16:25:50		Good Raw directory deleted successfully!!!
+2023-01-02/16:25:50		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:25:50		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:27:54		Good and Bad directory has been successfully created
+2023-01-02/16:28:16		Good Raw directory deleted successfully!!!
+2023-01-02/16:28:16		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:28:16		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:30:08		Good and Bad directory has been successfully created
+2023-01-02/16:30:31		Good Raw directory deleted successfully!!!
+2023-01-02/16:30:31		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:30:31		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:32:38		Good and Bad directory has been successfully created
+2023-01-02/16:32:59		Good Raw directory deleted successfully!!!
+2023-01-02/16:32:59		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:32:59		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:34:51		Good and Bad directory has been successfully created
+2023-01-02/16:35:17		Good Raw directory deleted successfully!!!
+2023-01-02/16:35:17		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:35:17		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:35:55		Good and Bad directory has been successfully created
+2023-01-02/16:36:19		Good Raw directory deleted successfully!!!
+2023-01-02/16:36:19		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:36:19		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:37:31		Good and Bad directory has been successfully created
+2023-01-02/16:37:52		Good Raw directory deleted successfully!!!
+2023-01-02/16:37:53		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:37:53		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:39:04		Good and Bad directory has been successfully created
+2023-01-02/16:39:28		Good Raw directory deleted successfully!!!
+2023-01-02/16:39:28		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:39:28		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:40:25		Good and Bad directory has been successfully created
+2023-01-02/16:40:47		Good Raw directory deleted successfully!!!
+2023-01-02/16:40:47		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:40:47		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:41:36		Good and Bad directory has been successfully created
+2023-01-02/16:41:56		Good Raw directory deleted successfully!!!
+2023-01-02/16:41:56		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:41:56		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:43:52		Good and Bad directory has been successfully created
+2023-01-02/16:44:12		Good Raw directory deleted successfully!!!
+2023-01-02/16:44:12		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:44:12		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:45:13		Good and Bad directory has been successfully created
+2023-01-02/16:45:34		Good Raw directory deleted successfully!!!
+2023-01-02/16:45:34		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:45:34		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:46:23		Good and Bad directory has been successfully created
+2023-01-02/16:46:43		Good Raw directory deleted successfully!!!
+2023-01-02/16:46:43		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:46:43		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:47:58		Good and Bad directory has been successfully created
+2023-01-02/16:48:23		Good Raw directory deleted successfully!!!
+2023-01-02/16:48:23		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:48:23		Bad Raw Directory deleted successfully!!!
+2023-01-02/16:53:57		Good and Bad directory has been successfully created
+2023-01-02/16:54:22		Good Raw directory deleted successfully!!!
+2023-01-02/16:54:22		Bad Raw data successfully transfer to bad archive folder
+2023-01-02/16:54:22		Bad Raw Directory deleted successfully!!!
+2023-01-03/12:24:58		Good and Bad directory has been successfully created
+2023-01-03/12:25:29		Good Raw directory deleted successfully!!!
+2023-01-03/12:25:29		Bad Raw data successfully transfer to bad archive folder
+2023-01-03/12:25:29		Bad Raw Directory deleted successfully!!!
+2023-01-03/12:26:29		Good and Bad directory has been successfully created
+2023-01-03/12:27:07		Good and Bad directory has been successfully created
+2023-01-03/12:27:36		Good Raw directory deleted successfully!!!
+2023-01-03/12:27:36		Bad Raw data successfully transfer to bad archive folder
+2023-01-03/12:27:36		Bad Raw Directory deleted successfully!!!
+2023-01-03/14:40:04		Good and Bad directory has been successfully created
+2023-01-03/14:40:35		Good and Bad directory has been successfully created
+2023-01-03/14:40:56		Good Raw directory deleted successfully!!!
+2023-01-03/14:40:56		Bad Raw data successfully transfer to bad archive folder
+2023-01-03/14:40:56		Bad Raw Directory deleted successfully!!!
+2023-01-04/12:01:36		Good and Bad directory has been successfully created
+2023-01-04/12:02:07		Good Raw directory deleted successfully!!!
+2023-01-04/12:02:07		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/12:02:07		Bad Raw Directory deleted successfully!!!
+2023-01-04/16:39:51		Good and Bad directory has been successfully created
+2023-01-04/16:40:34		Good Raw directory deleted successfully!!!
+2023-01-04/16:40:34		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/16:40:34		Bad Raw Directory deleted successfully!!!
+2023-01-04/17:11:43		Good and Bad directory has been successfully created
+2023-01-04/17:12:29		Good Raw directory deleted successfully!!!
+2023-01-04/17:12:29		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/17:12:30		Bad Raw Directory deleted successfully!!!
+2023-01-04/17:13:11		Good and Bad directory has been successfully created
+2023-01-04/17:13:34		Good Raw directory deleted successfully!!!
+2023-01-04/17:13:34		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/17:13:34		Bad Raw Directory deleted successfully!!!
+2023-01-04/17:44:22		Good and Bad directory has been successfully created
+2023-01-04/17:44:43		Good Raw directory deleted successfully!!!
+2023-01-04/17:44:43		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/17:44:44		Bad Raw Directory deleted successfully!!!
+2023-01-04/18:18:43		Good and Bad directory has been successfully created
+2023-01-04/18:19:22		Good Raw directory deleted successfully!!!
+2023-01-04/18:19:22		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/18:19:22		Bad Raw Directory deleted successfully!!!
+2023-01-04/18:23:56		Good and Bad directory has been successfully created
+2023-01-04/18:24:20		Good Raw directory deleted successfully!!!
+2023-01-04/18:24:20		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/18:24:20		Bad Raw Directory deleted successfully!!!
+2023-01-04/18:32:30		Good and Bad directory has been successfully created
+2023-01-04/18:33:01		Good Raw directory deleted successfully!!!
+2023-01-04/18:33:01		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/18:33:01		Bad Raw Directory deleted successfully!!!
+2023-01-04/18:35:49		Good and Bad directory has been successfully created
+2023-01-04/18:36:12		Good Raw directory deleted successfully!!!
+2023-01-04/18:36:12		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/18:36:12		Bad Raw Directory deleted successfully!!!
+2023-01-04/18:37:25		Good and Bad directory has been successfully created
+2023-01-04/18:37:52		Good Raw directory deleted successfully!!!
+2023-01-04/18:37:52		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/18:37:52		Bad Raw Directory deleted successfully!!!
+2023-01-04/18:38:48		Good and Bad directory has been successfully created
+2023-01-04/18:39:19		Good Raw directory deleted successfully!!!
+2023-01-04/18:39:19		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/18:39:19		Bad Raw Directory deleted successfully!!!
+2023-01-04/18:41:04		Good and Bad directory has been successfully created
+2023-01-04/18:41:44		Good Raw directory deleted successfully!!!
+2023-01-04/18:41:44		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/18:41:44		Bad Raw Directory deleted successfully!!!
+2023-01-04/18:42:59		Good and Bad directory has been successfully created
+2023-01-04/18:43:52		Good Raw directory deleted successfully!!!
+2023-01-04/18:43:52		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/18:43:52		Bad Raw Directory deleted successfully!!!
+2023-01-04/18:45:59		Good and Bad directory has been successfully created
+2023-01-04/18:46:37		Good Raw directory deleted successfully!!!
+2023-01-04/18:46:37		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/18:46:39		Bad Raw Directory deleted successfully!!!
+2023-01-04/18:49:06		Good and Bad directory has been successfully created
+2023-01-04/18:49:54		Good Raw directory deleted successfully!!!
+2023-01-04/18:49:54		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/18:49:54		Bad Raw Directory deleted successfully!!!
+2023-01-04/19:08:25		Good and Bad directory has been successfully created
+2023-01-04/19:08:53		Good Raw directory deleted successfully!!!
+2023-01-04/19:08:53		Bad Raw data successfully transfer to bad archive folder
+2023-01-04/19:08:53		Bad Raw Directory deleted successfully!!!
+2023-01-07/13:42:28		Good and Bad directory has been successfully created
+2023-01-07/13:43:11		Good Raw directory deleted successfully!!!
+2023-01-07/13:43:11		Bad Raw data successfully transfer to bad archive folder
+2023-01-07/13:43:11		Bad Raw Directory deleted successfully!!!
+2023-01-08/15:41:53		Good and Bad directory has been successfully created
+2023-01-08/15:42:20		Good Raw directory deleted successfully!!!
+2023-01-08/15:42:20		Bad Raw data successfully transfer to bad archive folder
+2023-01-08/15:42:20		Bad Raw Directory deleted successfully!!!
+2023-01-08/15:50:23		Good and Bad directory has been successfully created
+2023-01-08/15:50:46		Good Raw directory deleted successfully!!!
+2023-01-08/15:50:46		Bad Raw data successfully transfer to bad archive folder
+2023-01-08/15:50:46		Bad Raw Directory deleted successfully!!!
+2023-01-08/15:55:20		Good and Bad directory has been successfully created
+2023-01-08/15:55:43		Good Raw directory deleted successfully!!!
+2023-01-08/15:55:43		Bad Raw data successfully transfer to bad archive folder
+2023-01-08/15:55:43		Bad Raw Directory deleted successfully!!!
+2023-01-08/16:21:08		Good and Bad directory has been successfully created
+2023-01-08/16:21:45		Good Raw directory deleted successfully!!!
+2023-01-08/16:21:45		Bad Raw data successfully transfer to bad archive folder
+2023-01-08/16:21:45		Bad Raw Directory deleted successfully!!!
+2023-01-14/20:19:27		Good and Bad directory has been successfully created
+2023-01-14/20:19:58		Good Raw directory deleted successfully!!!
+2023-01-14/20:19:58		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/20:19:58		Bad Raw Directory deleted successfully!!!
+2023-01-14/20:45:59		Good and Bad directory has been successfully created
+2023-01-14/20:46:39		Good Raw directory deleted successfully!!!
+2023-01-14/20:46:40		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/20:46:40		Bad Raw Directory deleted successfully!!!
+2023-01-14/20:53:09		Good and Bad directory has been successfully created
+2023-01-14/20:53:36		Good Raw directory deleted successfully!!!
+2023-01-14/20:53:36		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/20:53:36		Bad Raw Directory deleted successfully!!!
+2023-01-14/20:56:12		Good and Bad directory has been successfully created
+2023-01-14/20:56:30		Good Raw directory deleted successfully!!!
+2023-01-14/20:56:30		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/20:56:30		Bad Raw Directory deleted successfully!!!
+2023-01-14/20:58:46		Good and Bad directory has been successfully created
+2023-01-14/21:54:39		Good and Bad directory has been successfully created
+2023-01-14/21:55:18		Good Raw directory deleted successfully!!!
+2023-01-14/21:55:18		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/21:55:19		Bad Raw Directory deleted successfully!!!
+2023-01-14/21:57:34		Good and Bad directory has been successfully created
+2023-01-14/21:58:02		Good and Bad directory has been successfully created
+2023-01-14/21:58:24		Good Raw directory deleted successfully!!!
+2023-01-14/21:58:24		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/21:58:24		Bad Raw Directory deleted successfully!!!
+2023-01-14/22:00:05		Good and Bad directory has been successfully created
+2023-01-14/22:05:06		Good and Bad directory has been successfully created
+2023-01-14/22:05:33		Good Raw directory deleted successfully!!!
+2023-01-14/22:05:33		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/22:05:33		Bad Raw Directory deleted successfully!!!
+2023-01-14/22:11:06		Good and Bad directory has been successfully created
+2023-01-14/22:11:28		Good Raw directory deleted successfully!!!
+2023-01-14/22:11:29		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/22:11:29		Bad Raw Directory deleted successfully!!!
+2023-01-14/22:24:50		Good and Bad directory has been successfully created
+2023-01-14/22:25:31		Good Raw directory deleted successfully!!!
+2023-01-14/22:25:32		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/22:25:32		Bad Raw Directory deleted successfully!!!
+2023-01-14/22:26:50		Good and Bad directory has been successfully created
+2023-01-14/22:27:22		Good and Bad directory has been successfully created
+2023-01-14/22:28:44		Good and Bad directory has been successfully created
+2023-01-14/22:29:20		Good and Bad directory has been successfully created
+2023-01-14/22:29:43		Good and Bad directory has been successfully created
+2023-01-14/22:30:13		Good and Bad directory has been successfully created
+2023-01-14/22:30:54		Good and Bad directory has been successfully created
+2023-01-14/22:33:00		Good and Bad directory has been successfully created
+2023-01-14/22:33:24		Good Raw directory deleted successfully!!!
+2023-01-14/22:33:24		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/22:33:24		Bad Raw Directory deleted successfully!!!
+2023-01-14/22:33:45		Good and Bad directory has been successfully created
+2023-01-14/22:34:09		Good Raw directory deleted successfully!!!
+2023-01-14/22:34:09		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/22:34:09		Bad Raw Directory deleted successfully!!!
+2023-01-14/22:34:37		Good and Bad directory has been successfully created
+2023-01-14/22:35:01		Good Raw directory deleted successfully!!!
+2023-01-14/22:35:01		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/22:35:02		Bad Raw Directory deleted successfully!!!
+2023-01-14/22:35:16		Good and Bad directory has been successfully created
+2023-01-14/22:35:16		Good Raw directory deleted successfully!!!
+2023-01-14/22:35:16		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/22:35:16		Bad Raw Directory deleted successfully!!!
+2023-01-14/22:35:37		Good and Bad directory has been successfully created
+2023-01-14/22:35:43		Good and Bad directory has been successfully created
+2023-01-14/22:37:03		Good and Bad directory has been successfully created
+2023-01-14/22:37:20		Good Raw directory deleted successfully!!!
+2023-01-14/22:37:20		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/22:37:20		Bad Raw Directory deleted successfully!!!
+2023-01-14/22:38:24		Good and Bad directory has been successfully created
+2023-01-14/22:38:49		Good Raw directory deleted successfully!!!
+2023-01-14/22:38:49		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/22:38:49		Bad Raw Directory deleted successfully!!!
+2023-01-14/22:39:09		Good and Bad directory has been successfully created
+2023-01-14/22:39:09		Good Raw directory deleted successfully!!!
+2023-01-14/22:39:09		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/22:39:09		Bad Raw Directory deleted successfully!!!
+2023-01-14/22:39:45		Good and Bad directory has been successfully created
+2023-01-14/22:42:51		Good and Bad directory has been successfully created
+2023-01-14/22:43:10		Good Raw directory deleted successfully!!!
+2023-01-14/22:43:10		Bad Raw data successfully transfer to bad archive folder
+2023-01-14/22:43:10		Bad Raw Directory deleted successfully!!!
+2023-01-15/20:00:53		Good and Bad directory has been successfully created
+2023-01-15/20:01:40		Good Raw directory deleted successfully!!!
+2023-01-15/20:01:40		Bad Raw data successfully transfer to bad archive folder
+2023-01-15/20:01:40		Bad Raw Directory deleted successfully!!!

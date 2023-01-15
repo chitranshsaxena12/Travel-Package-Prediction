@@ -1,0 +1,263 @@
+2023-01-07/13:42:28		Opened training database successfully
+2023-01-07/13:42:28		Tables created successfully!!
+2023-01-07/13:42:28		training database closed successfully!!!
+2023-01-07/13:42:28		Opened training database successfully
+2023-01-07/13:43:11		Data successfully inserted into Good_data table
+2023-01-07/13:43:11		Opened training database successfully
+2023-01-07/13:43:11		Data successfully loaded from Good_data table
+2023-01-08/15:41:54		Opened training database successfully
+2023-01-08/15:41:54		Tables created successfully!!
+2023-01-08/15:41:54		training database closed successfully!!!
+2023-01-08/15:41:54		Opened training database successfully
+2023-01-08/15:42:20		Data successfully inserted into Good_data table
+2023-01-08/15:42:20		Opened training database successfully
+2023-01-08/15:42:20		Data successfully loaded from Good_data table
+2023-01-08/15:42:25		Opened training database successfully
+2023-01-08/15:42:25		Good_data Table droped successfully!!!
+2023-01-08/15:50:24		Opened training database successfully
+2023-01-08/15:50:24		Tables created successfully!!
+2023-01-08/15:50:24		training database closed successfully!!!
+2023-01-08/15:50:24		Opened training database successfully
+2023-01-08/15:50:46		Data successfully inserted into Good_data table
+2023-01-08/15:50:46		Opened training database successfully
+2023-01-08/15:50:46		Data successfully loaded from Good_data table
+2023-01-08/15:50:50		Opened training database successfully
+2023-01-08/15:50:50		Good_data Table droped successfully!!!
+2023-01-08/15:55:20		Opened training database successfully
+2023-01-08/15:55:20		Tables created successfully!!
+2023-01-08/15:55:20		training database closed successfully!!!
+2023-01-08/15:55:20		Opened training database successfully
+2023-01-08/15:55:43		Data successfully inserted into Good_data table
+2023-01-08/15:55:43		Opened training database successfully
+2023-01-08/15:55:44		Data successfully loaded from Good_data table
+2023-01-08/15:55:50		Opened training database successfully
+2023-01-08/15:55:50		Good_data Table droped successfully!!!
+2023-01-08/16:21:08		Opened training database successfully
+2023-01-08/16:21:08		Tables created successfully!!
+2023-01-08/16:21:08		training database closed successfully!!!
+2023-01-08/16:21:08		Opened training database successfully
+2023-01-08/16:21:45		Data successfully inserted into Good_data table
+2023-01-08/16:21:45		Opened training database successfully
+2023-01-08/16:21:46		Data successfully loaded from Good_data table
+2023-01-08/16:21:50		Opened training database successfully
+2023-01-08/16:21:50		Good_data Table droped successfully!!!
+2023-01-14/20:19:27		Opened training database successfully
+2023-01-14/20:19:28		Tables created successfully!!
+2023-01-14/20:19:28		training database closed successfully!!!
+2023-01-14/20:19:28		Opened training database successfully
+2023-01-14/20:19:58		Data successfully inserted into Good_data table
+2023-01-14/20:19:58		Opened training database successfully
+2023-01-14/20:19:58		Data successfully loaded from Good_data table
+2023-01-14/20:20:01		Opened training database successfully
+2023-01-14/20:20:01		Good_data Table droped successfully!!!
+2023-01-14/20:44:36		Opened training database successfully
+2023-01-14/20:44:36		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/20:45:59		Opened training database successfully
+2023-01-14/20:45:59		Tables created successfully!!
+2023-01-14/20:45:59		training database closed successfully!!!
+2023-01-14/20:45:59		Opened training database successfully
+2023-01-14/20:46:31		Data successfully inserted into Good_data table
+2023-01-14/20:46:40		Opened training database successfully
+2023-01-14/20:46:40		Data successfully loaded from Good_data table
+2023-01-14/20:46:44		Opened training database successfully
+2023-01-14/20:46:44		Good_data Table droped successfully!!!
+2023-01-14/20:48:15		Opened training database successfully
+2023-01-14/20:48:15		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/20:50:36		Opened training database successfully
+2023-01-14/20:50:36		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/20:52:18		Opened training database successfully
+2023-01-14/20:52:18		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/20:52:45		Opened training database successfully
+2023-01-14/20:52:45		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/20:53:10		Opened training database successfully
+2023-01-14/20:53:10		Tables created successfully!!
+2023-01-14/20:53:10		training database closed successfully!!!
+2023-01-14/20:53:10		Opened training database successfully
+2023-01-14/20:53:36		Data successfully inserted into Good_data table
+2023-01-14/20:53:36		Opened training database successfully
+2023-01-14/20:53:37		Data successfully loaded from Good_data table
+2023-01-14/20:53:40		Opened training database successfully
+2023-01-14/20:53:40		Good_data Table droped successfully!!!
+2023-01-14/20:56:12		Opened training database successfully
+2023-01-14/20:56:12		Tables created successfully!!
+2023-01-14/20:56:12		training database closed successfully!!!
+2023-01-14/20:56:12		Opened training database successfully
+2023-01-14/20:56:30		Data successfully inserted into Good_data table
+2023-01-14/20:58:46		Opened training database successfully
+2023-01-14/20:58:46		Error while creating table table Good_data already exists
+2023-01-14/21:54:39		Opened training database successfully
+2023-01-14/21:54:40		Tables created successfully!!
+2023-01-14/21:54:40		training database closed successfully!!!
+2023-01-14/21:54:40		Opened training database successfully
+2023-01-14/21:55:02		Data successfully inserted into Good_data table
+2023-01-14/21:57:34		Opened training database successfully
+2023-01-14/21:57:34		Error while creating table table Good_data already exists
+2023-01-14/21:58:02		Opened training database successfully
+2023-01-14/21:58:02		Tables created successfully!!
+2023-01-14/21:58:02		training database closed successfully!!!
+2023-01-14/21:58:02		Opened training database successfully
+2023-01-14/21:58:24		Data successfully inserted into Good_data table
+2023-01-14/22:00:05		Opened training database successfully
+2023-01-14/22:00:05		Error while creating table table Good_data already exists
+2023-01-14/22:05:07		Opened training database successfully
+2023-01-14/22:05:07		Tables created successfully!!
+2023-01-14/22:05:07		training database closed successfully!!!
+2023-01-14/22:05:07		Opened training database successfully
+2023-01-14/22:05:33		Data successfully inserted into Good_data table
+2023-01-14/22:05:33		Opened training database successfully
+2023-01-14/22:05:33		Data successfully loaded from Good_data table
+2023-01-14/22:05:36		Opened training database successfully
+2023-01-14/22:05:36		Good_data Table droped successfully!!!
+2023-01-14/22:06:07		Opened training database successfully
+2023-01-14/22:06:07		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:09:04		Opened training database successfully
+2023-01-14/22:09:04		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:11:07		Opened training database successfully
+2023-01-14/22:11:07		Tables created successfully!!
+2023-01-14/22:11:07		training database closed successfully!!!
+2023-01-14/22:11:07		Opened training database successfully
+2023-01-14/22:11:28		Data successfully inserted into Good_data table
+2023-01-14/22:12:51		Opened training database successfully
+2023-01-14/22:12:51		Data successfully loaded from Good_data table
+2023-01-14/22:12:53		Opened training database successfully
+2023-01-14/22:12:53		Good_data Table droped successfully!!!
+2023-01-14/22:13:54		Opened training database successfully
+2023-01-14/22:13:54		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:19:54		Opened training database successfully
+2023-01-14/22:19:54		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:21:53		Opened training database successfully
+2023-01-14/22:21:53		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:23:06		Opened training database successfully
+2023-01-14/22:23:06		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:23:33		Opened training database successfully
+2023-01-14/22:23:33		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:24:40		Opened training database successfully
+2023-01-14/22:24:40		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:24:50		Opened training database successfully
+2023-01-14/22:24:50		Tables created successfully!!
+2023-01-14/22:24:50		training database closed successfully!!!
+2023-01-14/22:24:50		Opened training database successfully
+2023-01-14/22:25:31		Data successfully inserted into Good_data table
+2023-01-14/22:25:33		Opened training database successfully
+2023-01-14/22:25:33		Data successfully loaded from Good_data table
+2023-01-14/22:25:40		Opened training database successfully
+2023-01-14/22:25:40		Good_data Table droped successfully!!!
+2023-01-14/22:26:39		Opened training database successfully
+2023-01-14/22:26:39		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:26:51		Opened training database successfully
+2023-01-14/22:26:51		Tables created successfully!!
+2023-01-14/22:26:51		training database closed successfully!!!
+2023-01-14/22:26:51		Opened training database successfully
+2023-01-14/22:27:22		Opened training database successfully
+2023-01-14/22:27:22		Error while creating table table Good_data already exists
+2023-01-14/22:28:45		Opened training database successfully
+2023-01-14/22:28:45		Error while creating table table Good_data already exists
+2023-01-14/22:29:20		Opened training database successfully
+2023-01-14/22:29:20		Error while creating table table Good_data already exists
+2023-01-14/22:29:43		Opened training database successfully
+2023-01-14/22:29:43		Error while creating table table Good_data already exists
+2023-01-14/22:30:14		Opened training database successfully
+2023-01-14/22:30:14		Error while creating table table Good_data already exists
+2023-01-14/22:30:54		Opened training database successfully
+2023-01-14/22:30:54		Error while creating table table Good_data already exists
+2023-01-14/22:32:00		Opened training database successfully
+2023-01-14/22:32:00		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:32:28		Opened training database successfully
+2023-01-14/22:32:28		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:32:50		Opened training database successfully
+2023-01-14/22:32:50		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:33:00		Opened training database successfully
+2023-01-14/22:33:00		Tables created successfully!!
+2023-01-14/22:33:00		training database closed successfully!!!
+2023-01-14/22:33:00		Opened training database successfully
+2023-01-14/22:33:24		Data successfully inserted into Good_data table
+2023-01-14/22:33:24		Opened training database successfully
+2023-01-14/22:33:25		Data successfully loaded from Good_data table
+2023-01-14/22:33:29		Opened training database successfully
+2023-01-14/22:33:29		Good_data Table droped successfully!!!
+2023-01-14/22:33:45		Opened training database successfully
+2023-01-14/22:33:45		Tables created successfully!!
+2023-01-14/22:33:45		training database closed successfully!!!
+2023-01-14/22:33:45		Opened training database successfully
+2023-01-14/22:34:09		Data successfully inserted into Good_data table
+2023-01-14/22:34:09		Opened training database successfully
+2023-01-14/22:34:09		Data successfully loaded from Good_data table
+2023-01-14/22:34:12		Opened training database successfully
+2023-01-14/22:34:12		Good_data Table droped successfully!!!
+2023-01-14/22:34:28		Opened training database successfully
+2023-01-14/22:34:28		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:34:37		Opened training database successfully
+2023-01-14/22:34:37		Tables created successfully!!
+2023-01-14/22:34:37		training database closed successfully!!!
+2023-01-14/22:34:37		Opened training database successfully
+2023-01-14/22:35:01		Data successfully inserted into Good_data table
+2023-01-14/22:35:02		Opened training database successfully
+2023-01-14/22:35:02		Data successfully loaded from Good_data table
+2023-01-14/22:35:05		Opened training database successfully
+2023-01-14/22:35:05		Good_data Table droped successfully!!!
+2023-01-14/22:35:16		Opened training database successfully
+2023-01-14/22:35:16		Tables created successfully!!
+2023-01-14/22:35:16		training database closed successfully!!!
+2023-01-14/22:35:16		Opened training database successfully
+2023-01-14/22:35:16		Opened training database successfully
+2023-01-14/22:35:16		Data successfully loaded from Good_data table
+2023-01-14/22:35:37		Opened training database successfully
+2023-01-14/22:35:37		Error while creating table table Good_data already exists
+2023-01-14/22:35:44		Opened training database successfully
+2023-01-14/22:35:44		Error while creating table table Good_data already exists
+2023-01-14/22:37:03		Opened training database successfully
+2023-01-14/22:37:03		Tables created successfully!!
+2023-01-14/22:37:03		training database closed successfully!!!
+2023-01-14/22:37:03		Opened training database successfully
+2023-01-14/22:37:20		Data successfully inserted into Good_data table
+2023-01-14/22:37:20		Opened training database successfully
+2023-01-14/22:37:20		Data successfully loaded from Good_data table
+2023-01-14/22:37:22		Opened training database successfully
+2023-01-14/22:37:22		Good_data Table droped successfully!!!
+2023-01-14/22:37:55		Opened training database successfully
+2023-01-14/22:37:55		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:38:24		Opened training database successfully
+2023-01-14/22:38:24		Tables created successfully!!
+2023-01-14/22:38:24		training database closed successfully!!!
+2023-01-14/22:38:24		Opened training database successfully
+2023-01-14/22:38:42		Data successfully inserted into Good_data table
+2023-01-14/22:38:49		Opened training database successfully
+2023-01-14/22:38:49		Data successfully loaded from Good_data table
+2023-01-14/22:38:51		Opened training database successfully
+2023-01-14/22:38:51		Good_data Table droped successfully!!!
+2023-01-14/22:39:09		Opened training database successfully
+2023-01-14/22:39:09		Tables created successfully!!
+2023-01-14/22:39:09		training database closed successfully!!!
+2023-01-14/22:39:09		Opened training database successfully
+2023-01-14/22:39:10		Opened training database successfully
+2023-01-14/22:39:10		Data successfully loaded from Good_data table
+2023-01-14/22:39:46		Opened training database successfully
+2023-01-14/22:39:46		Error while creating table table Good_data already exists
+2023-01-14/22:42:51		Opened training database successfully
+2023-01-14/22:42:51		Tables created successfully!!
+2023-01-14/22:42:51		training database closed successfully!!!
+2023-01-14/22:42:51		Opened training database successfully
+2023-01-14/22:43:10		Data successfully inserted into Good_data table
+2023-01-14/22:43:10		Opened training database successfully
+2023-01-14/22:43:10		Data successfully loaded from Good_data table
+2023-01-14/22:43:13		Opened training database successfully
+2023-01-14/22:43:13		Good_data Table droped successfully!!!
+2023-01-14/22:46:32		Opened training database successfully
+2023-01-14/22:46:32		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:47:06		Opened training database successfully
+2023-01-14/22:47:06		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:47:32		Opened training database successfully
+2023-01-14/22:47:32		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-14/22:48:07		Opened training database successfully
+2023-01-14/22:48:07		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-15/20:00:36		Opened training database successfully
+2023-01-15/20:00:36		Error while loding data from Good_data table Execution failed on sql 'select * from Good_data': no such table: Good_data
+2023-01-15/20:00:53		Opened training database successfully
+2023-01-15/20:00:53		Tables created successfully!!
+2023-01-15/20:00:53		training database closed successfully!!!
+2023-01-15/20:00:53		Opened training database successfully
+2023-01-15/20:01:38		Data successfully inserted into Good_data table
+2023-01-15/20:01:40		Opened training database successfully
+2023-01-15/20:01:40		Data successfully loaded from Good_data table
+2023-01-15/20:01:44		Opened training database successfully
+2023-01-15/20:01:44		Good_data Table droped successfully!!!
